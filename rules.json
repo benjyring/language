@@ -1,0 +1,48 @@
+{
+  "numbers": { // base ten
+    "voi": 0,
+    "un": 1,
+    "du": 2,
+    "tri(t)": 3,
+    "kvi(t)": 4,
+    "pin(t)": 5,
+    "sen(a)": 6,
+    "set(a)": 7,
+    "ok(a)": 8,
+    "nok(a)": 9,
+    "dek(a)": 10
+  },
+  "vowels": {
+    "a": "ah",
+    "å": "ai",
+    "e": "eh",
+    "é": "ey",
+    "o": "oh",
+    "ø": "oi",
+    "i": "ee", // non-dipthong
+    "u": "oo" // non-dipthong
+  },
+  "consonants": {
+    "b": "",
+    "c": "",
+    "d": "",
+    "g": "",
+    "j": "",
+    "k": "",
+    "l": "",
+    "m": "",
+    "n": "",
+    "p": "",
+    "r": "",
+    "t": "",
+    "v": "",
+    "w": "",
+//    "x": "",
+    "z": "",
+  },
+  "soft rules" : {
+    "implied h": "to separate a word ending in a vowel and a word beginning in a vowel",
+    "no q or w sounds": "to maintain a non-latin tone",
+    "written with iphone English keyboard": "to reduce barrier to entry"
+  }
+}
