@@ -1,26 +1,27 @@
 {
   "numbers": { // base ten
-    "voi": 0,
+    "vö": 0,
     "un": 1,
     "du": 2,
     "tri(t)": 3,
     "kvi(t)": 4,
     "pin(t)": 5,
-    "sen(a)": 6,
-    "set(a)": 7,
+    "sën(a)": 6,
+    "sët(a)": 7,
     "ok(a)": 8,
     "nok(a)": 9,
-    "dek(a)": 10
+    "dëk(a)": 10
   },
   "vowels": {
-    "a": "ah",
-    "å": "ai",
+    "a": "uh",
+    "å": "ah",
+    "ä": "ai",
     "e": "eh",
-    "é": "ey",
+    "ë": "ey",
     "o": "oh",
-    "ø": "oi",
+    "ö": "oi",
+    "u": "oo", // non-dipthong
     "i": "ee", // non-dipthong
-    "u": "oo" // non-dipthong
   },
   "consonants": {
     "b": "",
