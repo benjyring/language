@@ -38,6 +38,7 @@
     "v": "v",
     "x": "h",
     "z": "z",
+    "ž": "zh"
   },
   "soft rules" : {
     "implied h": "to separate a word ending in a vowel and a word beginning in a vowel",
