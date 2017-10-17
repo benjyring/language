@@ -36,13 +36,43 @@
     "r": "high Germanic",
     "t": "t",
     "v": "v",
-    "x": "h",
-    "z": "z",
-    "ž": "zh"
+    "x": "h"
   },
-  "soft rules" : {
-    "implied h": "to separate a word ending in a vowel and a word beginning in a vowel",
+  "soft rules": {
+    "no voiced pairs of consonants (except d, t)": "to avoid ambiguity",
+    "implied j": "to separate a word ending in a vowel and a word beginning in a vowel",
     "no q or w sounds": "to maintain a non-latin tone",
     "written with iphone English keyboard": "to reduce barrier to entry"
+  },
+  "syntax": {
+    "numerals before nouns": "",
+    "adjectives after nouns": "(at least in compounds)",
+    "postpositions": "",
+    "subjects before verbs": ""
+  },
+  "lexicon": {
+    "agh": "and",
+    "ash": "one",
+    "burz": "dark",
+    "durb-": "rule",
+    "gimb-": "find",
+    "ishi": "in",
+    "krimp-": "bind",
+    "lug": "tower",
+    "nazg": "ring",
+    "thrak-": "bring",
+  },
+  "build-pattern": {
+    "process or state": "knowledge, departure, whiteness",
+    "associated person": "fighter, librarian",
+    "place": "dining room, book-place (= library)",
+    "collection": "woods, word-hoard (= dictionary)",
+    "tool": "borer, cut-thing (= knife)",
+    "characteristic adjective": "warlike, bovine, stellar",
+    "causative": "redden, make-die (= kill)",
+    "diminutive": "doggie, Johnnie, mujercita",
+    "augmentative": "big-dog, mujerona",
+    "inhabitant": "Verdurian, Xurnese",
+    "negative": "unfamiliar, undo, atheism"
   }
 }

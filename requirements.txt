@@ -1,13 +1,32 @@
-Introduction 
+Introduction
 Phonology
-    Consonants
-    Vowels
-    Stress
-    Phonotactics 
-Morphology 
-Derivational morphology 
-Syntax 
-Semantic fields and pragmatics 
-Writing system 
-Examples 
+	Consonants
+	Vowels
+	Stress
+	Phonotactics
+Morphology
+	how words are formed, whether by inflections, compounding, or more exotic ways
+Derivational morphology
+Syntax
+	how words are arrayed into sentences, including word order and constructions that depend on separate words or particles
+Semantics
+	the study of meaning, including how it changes over time and how words relate to each other
+Pragmatics
+	how language is actually used in the word, and how meanings change in context
+Writing system
+Examples
 Lexicon
+	600 nouns
+		200 names of readily pictured objects
+	150 adjectives
+		50 with the mnemonic advantage of being opposites of other words in the list
+	100 structural words
+		operators
+		pronouns
+		misc
+	Reinforced by:
+		50 nouns that have acquired wide international intelligibility (for example, hotel and radio)
+		Certain systematic additions that do not rank as learning items in the full sense:
+			numerals
+			calendar
+			names of weights and measures and currency
