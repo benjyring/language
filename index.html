@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+	<title>NovLang, a dumbass project by Ben Jyring</title>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<style>
+		table {
+			border: 1px solid;
+		}
+		table td {
+			border: 1px solid;
+		}
+	</style>
+</head>
+<body>
+	<h1>NovLang, a dumbass project by Ben Jyring</h1>
+
+	<div id="lexicon">
+		<h2>Lexicon</h2>
+	</div>
+
+	<div id="grammar-case">
+		<h2>Grammatical Cases</h2>
+		<table>
+			<tr>
+				<td>Mundus</td>
+				<td>subjective/nominative</td>
+				<td>the world (is/does)</td>
+			</tr>
+			<tr>
+				<td>Mundum</td>
+				<td>object/accusitive</td>
+				<td>(something affects) the world</td>
+			</tr>
+			<tr>
+				<td>Mundus</td>
+				<td>vocative</td>
+				<td>O world!</td>
+			</tr>
+			<tr>
+				<td>Mundi</td>
+				<td>possessive or genitive</td>
+				<td>the world's</td>
+			</tr>
+			<tr>
+				<td>Mundo</td>
+				<td>indirect object or dative</td>
+				<td>(given, sold, etc.) to the world</td>
+			</tr>
+			<tr>
+				<td>Mundo</td>
+				<td>ablative</td>
+				<td>(something is done) by the world</td>
+			</tr>
+		</table>
+	</div>
+
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$.getJSON( "lexicon.json", function(data) {
+				var items = [];
+				$.each(data, function(key, val){
+					items.push( "<tr><td>" + key + "</td><td>" + val + "</td></tr>" );
+				});
+
+				$( "<table/>", {
+					"class": "lexicon",
+					html: items.join( "" )
+				}).appendTo("#lexicon");
+			});
+		});
+	</script>
+</body>
+</html>

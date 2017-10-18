@@ -1,5 +1,5 @@
 {
-  "numbers": { // base ten
+  "numbers": {
     "vö": 0,
     "un": 1,
     "du": 2,
@@ -49,18 +49,6 @@
     "adjectives after nouns": "(at least in compounds)",
     "postpositions": "",
     "subjects before verbs": ""
-  },
-  "lexicon": {
-    "agh": "and",
-    "ash": "one",
-    "burz": "dark",
-    "durb-": "rule",
-    "gimb-": "find",
-    "ishi": "in",
-    "krimp-": "bind",
-    "lug": "tower",
-    "nazg": "ring",
-    "thrak-": "bring",
   },
   "build-pattern": {
     "process or state": "knowledge, departure, whiteness",
