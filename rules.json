@@ -1,17 +1,4 @@
 {
-  "numbers": {
-    "vö": 0,
-    "un": 1,
-    "du": 2,
-    "tri(t)": 3,
-    "kvi(t)": 4,
-    "pin(t)": 5,
-    "sën(a)": 6,
-    "sët(a)": 7,
-    "ok(a)": 8,
-    "nok(a)": 9,
-    "dëk(a)": 10
-  },
   "vowels": {
     "a": "uh",
     "å": "ah",
@@ -20,8 +7,8 @@
     "ë": "ey",
     "o": "oh",
     "ö": "oi",
-    "u": "oo", // non-dipthong
-    "i": "ee", // non-dipthong
+    "u": "oo",
+    "i": "ee",
   },
   "consonants": {
     "b": "b",
@@ -40,9 +27,14 @@
   },
   "soft rules": {
     "no voiced pairs of consonants (except d, t)": "to avoid ambiguity",
-    "implied j": "to separate a word ending in a vowel and a word beginning in a vowel",
+    "implied j": "Separates a word ending in a vowel and a word beginning in a vowel. This sound is also produced between words ending with a vowel and words beginning with 'x.'",
     "no q or w sounds": "to maintain a non-latin tone",
-    "written with iphone English keyboard": "to reduce barrier to entry"
+    "written with iphone English keyboard": "to reduce barrier to entry",
+    "Nouns end in consonants": "Adjectives and adverbs end in vowels",
+    "-nx": "same as -ng in English",
+    "Čë": "Prefix word denoting one in a series. Čë tet = this, Tet = That, Čë kë = which, Kë = what",
+    "Soft/hard voice": "To soften a word, use 'i' as the accented vowel instead of 'a'",
+    "Ka-": "Prefix denoting intention"
   },
   "syntax": {
     "numerals before nouns": "",
