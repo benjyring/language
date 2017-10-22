@@ -1,105 +1,794 @@
-{
-  "Më": "I",
-  "Vi": "You",
-  "Mëjen": "We",
-  "Čë tet": "This",
-  "Tet": "That",
-  "Ko": "Who?",
-  "Kë": "What?",
-  "Čë kë": "Which?",
-  "Nët": "Not",
-  "Kéttet": "All (of a number)",
-  "Mánet": "Many",
-  "Mínet": "Few",
-  "Un": "One",
-  "Du": "Two",
-  "13": "Big",
-  "Pátet": "Long (not wide)",
-  "Pínet": "Small",
-  "Lijóm": "Woman (adult female human)",
-  "Täjóm": "Man (adult male human)",
-  "Vivom": "Person (individual human)",
-  "Živóm": "Animal",
-  "Plivóm": "Fish",
-  "Letóm": "Bird",
-  "Xondóm": "Dog",
-  "22": "Louse",
-  "Arbom": "Tree (not log)",
-  "Semóm": "Seed (noun)",
-  "25": "Leaf (botanics)",
-  "26": "Root (botanics)",
-  "27": "Bark (of tree)",
-  "28": "Skin (person’s)",
-  "29": "Flesh (meat, flesh)",
-  "30": "Blood",
-  "31": "Bone",
-  "32": "Grease (fat, organic substance)",
-  "33": "Egg",
-  "34": "Horn (bull)",
-  "35": "Tail",
-  "36": "Feather (large, not down)",
-  "37": "Hair (on head of humans)",
-  "38": "Head (anatomic)",
-  "39": "Ear",
-  "40": "Eye",
-  "41": "Nose",
-  "42": "Mouth",
-  "43": "Tooth (front, rather than molar)",
-  "Lenja": "Tongue (anatomical)",
-  "45": "Claw",
-  "46": "Foot (not leg)",
-  "47": "Knee",
-  "48": "Hand",
-  "49": "Belly (lower part of body, abdomen)",
-  "50": "Neck (not nape)",
-  "51": "Breasts (female; 1955 still breast)",
-  "52": "Heart",
-  "53": "Liver",
-  "54": "Drink (verb)",
-  "55": "Eat (verb)",
-  "56": "Bite (verb)",
-  "57": "See (verb)",
-  "58": "Hear (verb)",
-  "59": "Know (facts)",
-  "60": "Sleep (verb)",
-  "61": "Die (verb)",
-  "62": "Kill (verb)",
-  "63": "Swim (verb)",
-  "64": "Fly (verb)",
-  "65": "Walk (verb)",
-  "66": "Come (verb)",
-  "67": "Lie (on side, recline)",
-  "68": "Sit (verb)",
-  "69": "Stand (verb)",
-  "70": "Give (verb)",
-  "71": "Say (verb)",
-  "Aranen": "Sun",
-  "Lunen": "Moon",
-  "Estril": "star",
-  "Lakil": "Water (noun)",
-  "Pitil": "Rain (noun)",
-  "Ston": "Stone",
-  "78": "Sand",
-  "79": "Earth (soil)",
-  "80": "Cloud (not fog)",
-  "81": "Smoke (noun, of fire)",
-  "82": "Fire",
-  "83": "Ash(es)",
-  "84": "Burn (verb)",
-  "85": "Path (road, trail; not street)",
-  "86": "Mountain (not hill)",
-  "87": "Red (colour)",
-  "88": "Green (colour)",
-  "89": "Yellow (colour)",
-  "90": "White (colour)",
-  "91": "Black (colour)",
-  "92": "Night",
-  "93": "Hot (weather)",
-  "94": "Cold (weather)",
-  "95": "Full",
-  "96": "New",
-  "Bin": "Good",
-  "98": "Round",
-  "99": "Dry (substance)",
-  "100": "Name"
-}
+[
+ {
+   "A": "Mi",
+   "B": "I",
+   "C": "Pronoun",
+   "D": "Personal"
+ },
+ {
+   "A": "Vi",
+   "B": "You",
+   "C": "Pronoun",
+   "D": "Personal"
+ },
+ {
+   "A": "Mijen",
+   "B": "We",
+   "C": "Pronoun",
+   "D": "Personal"
+ },
+ {
+   "A": "Čë tet",
+   "B": "This",
+   "C": "Pronoun",
+   "D": "Demonstrative"
+ },
+ {
+   "A": "Tet",
+   "B": "That, It",
+   "C": "Pronoun",
+   "D": "Demonstrative"
+ },
+ {
+   "A": "Ko",
+   "B": "Who?",
+   "C": "Pronoun",
+   "D": "Interrogative"
+ },
+ {
+   "A": "Kë",
+   "B": "What?",
+   "C": "Pronoun",
+   "D": "Interrogative"
+ },
+ {
+   "A": "Čë kë",
+   "B": "Which?",
+   "C": "Pronoun",
+   "D": "Interrogative"
+ },
+ {
+   "A": "Në",
+   "B": "Not",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Kétte",
+   "B": "All (of a number)",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Máne",
+   "B": "Many",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Míne",
+   "B": "Few",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Súre",
+   "B": "Big",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Páte",
+   "B": "Long (not wide)",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Píne",
+   "B": "Small",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Lijóm",
+   "B": "Woman (adult female human)",
+   "C": "Noun",
+   "D": "People"
+ },
+ {
+   "A": "Täjóm",
+   "B": "Man (adult male human)",
+   "C": "Noun",
+   "D": "People"
+ },
+ {
+   "A": "Vivom",
+   "B": "Person (individual human)",
+   "C": "Noun",
+   "D": "People"
+ },
+ {
+   "A": "Ámik",
+   "B": "Friend",
+   "C": "Noun",
+   "D": "People"
+ },
+ {
+   "A": "Ctudíct",
+   "B": "Student",
+   "C": "Noun",
+   "D": "People"
+ },
+ {
+   "A": "Vlur",
+   "B": "Flower",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Živóm",
+   "B": "Animal",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Plivóm",
+   "B": "Fish",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Letóm",
+   "B": "Bird",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Xond",
+   "B": "Dog",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Kuž",
+   "B": "Louse",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Arbóm",
+   "B": "Tree (not log)",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Cemóm",
+   "B": "Seed",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Föl",
+   "B": "Leaf",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Tátu",
+   "B": "Root",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Eckórč",
+   "B": "Bark (of tree)",
+   "C": "Noun",
+   "D": "Botany"
+ },
+ {
+   "A": "Pjel",
+   "B": "Skin (person’s)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Cliv",
+   "B": "Flesh (meat)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Canx",
+   "B": "Blood",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Rod",
+   "B": "Bone",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Lom",
+   "B": "Grease (fat, organic substance)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Cëmom",
+   "B": "Egg",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Xirvë",
+   "B": "Horn (bull)",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Xirvëla",
+   "B": "Antler",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Cval",
+   "B": "Tail",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Volet",
+   "B": "Feather (large, not down)",
+   "C": "Noun",
+   "D": "Animals"
+ },
+ {
+   "A": "Kabëja",
+   "B": "Hair (on head of humans)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Kabëca",
+   "B": "Head (anatomic)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Orëla",
+   "B": "Ear",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Ilíta",
+   "B": "Eye",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Náca",
+   "B": "Nose",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Bóka",
+   "B": "Mouth",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Dënta",
+   "B": "Tooth (front, rather than molar)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Lënja",
+   "B": "Tongue (anatomical)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Kláča",
+   "B": "Claw",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Tatëta",
+   "B": "Foot (not leg)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Xenóla",
+   "B": "Knee",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Káma",
+   "B": "Hand",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Entrëla",
+   "B": "Belly (lower part of body, abdomen)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Kála",
+   "B": "Neck (not nape)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Bórčten",
+   "B": "Breasts (female; 1955 still breast)",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Kórda",
+   "B": "Heart",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Fëtja",
+   "B": "Liver",
+   "C": "Noun",
+   "D": "Anatomy"
+ },
+ {
+   "A": "Drëkkä",
+   "B": "Drink",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Bortä",
+   "B": "Eat",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Bitä",
+   "B": "Bite",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Čië",
+   "B": "See",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Xirë",
+   "B": "Hear",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Vitë",
+   "B": "Know (facts)",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Čpovë",
+   "B": "Sleep",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Mjurtë",
+   "B": "Die",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Mjurtä",
+   "B": "Kill",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Čë mjurtä",
+   "B": "To commit suicide",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Lësä",
+   "B": "Read",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Črivä",
+   "B": "Write",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Čvimä",
+   "B": "Swim",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Vlijä",
+   "B": "Fly",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Lopä",
+   "B": "Walk",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Komä",
+   "B": "Come",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Lijë",
+   "B": "Lie (on side, to be reclined)",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Lijä",
+   "B": "Lie (to lower into reclining)",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Citë",
+   "B": "Sit (to be sitting)",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Citä",
+   "B": "Sit (to lower into sitting)",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Čtandë",
+   "B": "Stand",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Čtandä",
+   "B": "Stand",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Xëvä",
+   "B": "Give",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Cëjä",
+   "B": "Say",
+   "C": "Verb",
+   "D": "Intentional Action"
+ },
+ {
+   "A": "Áranen",
+   "B": "Sun",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Lúnen",
+   "B": "Moon",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Estríl",
+   "B": "Star",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Lákil",
+   "B": "Water",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Pitil",
+   "B": "Rain",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Ston",
+   "B": "Stone",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Cand",
+   "B": "Sand",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Jordin",
+   "B": "Earth (soil)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Vevd",
+   "B": "Cloud (not fog)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Räken",
+   "B": "Smoke (noun, of fire)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Xärd",
+   "B": "Fire",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Ačk",
+   "B": "Ash(es)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
+ },
+ {
+   "A": "Brendë",
+   "B": "Burn",
+   "C": "Verb",
+   "D": "Experience (Action)"
+ },
+ {
+   "A": "Kámi",
+   "B": "Path (road, trail; not street)",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Tábel",
+   "B": "Table",
+   "C": "Noun",
+   "D": "Constructed Inanimate"
+ },
+ {
+   "A": "Ctil",
+   "B": "Pencil",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Čurnal",
+   "B": "Newspaper",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Mántel",
+   "B": "Mountain (not hill)",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Ríju",
+   "B": "River",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Bank",
+   "B": "Bank (of the river)",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Píre",
+   "B": "Red",
+   "C": "Noun",
+   "D": "Color"
+ },
+ {
+   "A": "Vírëje",
+   "B": "Green",
+   "C": "Noun",
+   "D": "Color"
+ },
+ {
+   "A": "Kéltäne",
+   "B": "Yellow",
+   "C": "Noun",
+   "D": "Color"
+ },
+ {
+   "A": "Válke",
+   "B": "White",
+   "C": "Noun",
+   "D": "Color"
+ },
+ {
+   "A": "Múčte",
+   "B": "Black",
+   "C": "Noun",
+   "D": "Color"
+ },
+ {
+   "A": "Nikt",
+   "B": "Night",
+   "C": "Noun",
+   "D": ""
+ },
+ {
+   "A": "Hjúme",
+   "B": "Hot (weather)",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Kjúlme",
+   "B": "Cold (weather)",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Télje",
+   "B": "Full",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Uče",
+   "B": "New",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Váne",
+   "B": "Good",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Rínje",
+   "B": "Round",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Küve",
+   "B": "Dry (substance)",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Noma",
+   "B": "Name",
+   "C": "Adjective",
+   "D": ""
+ },
+ {
+   "A": "Rë",
+   "B": "About",
+   "C": "Preposition",
+   "D": ""
+ },
+ {
+   "A": "Po",
+   "B": "On",
+   "C": "Preposition",
+   "D": ""
+ },
+ {
+   "A": "Óbër",
+   "B": "Above",
+   "C": "Preposition",
+   "D": ""
+ },
+ {
+   "A": "Úndir",
+   "B": "Under",
+   "C": "Preposition",
+   "D": ""
+ },
+ {
+   "A": "Níben",
+   "B": "Beside",
+   "C": "Preposition",
+   "D": ""
+ },
+ {
+   "A": "Vö",
+   "B": "0",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Un",
+   "B": "1",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Du",
+   "B": "2",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Tri(t)",
+   "B": "3",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Kvi(t)",
+   "B": "4",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Pin(t)",
+   "B": "5",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Cën(a)",
+   "B": "6",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Cët(a)",
+   "B": "7",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Ok(a)",
+   "B": "8",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Nok(a)",
+   "B": "9",
+   "C": "Noun",
+   "D": "Number"
+ },
+ {
+   "A": "Dëk(a)",
+   "B": "10",
+   "C": "Noun",
+   "D": "Number"
+ }
+]
