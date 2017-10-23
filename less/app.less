@@ -30,6 +30,10 @@
 @brand-black: #222222;
 @brand-grey: #353535;
 
+@font-family: "Raleway", Helvetica, Arial, sans-serif;
+@bold: 800;
+@normal: 400;
+
 * {
 	box-sizing: border-box;
 }
@@ -37,7 +41,12 @@
 body, html {
 	background-color: @brand-white;
 }
+body {
+	font-family: @font-family;
+}
 
 @import "components/bootstrap";
 @import "parts/header";
+@import "parts/search-filter";
+@import "parts/tables";
 @import "parts/footer";
