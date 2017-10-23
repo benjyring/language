@@ -33,7 +33,7 @@ module.exports = function(grunt){
 		clean: {
 			zip: 'theme.zip',
 			images: 'img/tmp/',
-			theme: 'theme/'
+			theme: 'docs/'
 		},
 		jshint: {
 			files: ['js/app.js']/*,
@@ -90,7 +90,7 @@ module.exports = function(grunt){
 				files: [{
 					expand: true,
 					src: ['<%= src.theme %>', '!*.html'],
-					dest: 'theme/'
+					dest: 'docs/'
 				}]
 			}
 		},
@@ -156,7 +156,7 @@ module.exports = function(grunt){
 				files: [{
 					expand: true,
 					src: ['*.html', '!kitchen-sink.html'],
-					dest: 'theme/'
+					dest: 'docs/'
 				}]
 			}
 		},
@@ -169,7 +169,7 @@ module.exports = function(grunt){
 				},
 				files: [{
 					expand: true,
-					cwd: 'theme/',
+					cwd: 'docs/',
 					src: '<%= src.theme %>',
 					dest: '/'
 				}]

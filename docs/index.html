@@ -1,0 +1,195 @@
+<!doctype html>
+<html>
+<head>
+	<title>NovLang, a dumbass project by Ben Jyring</title>
+	<link href="{TEMPLATE_PATH}/css/app.min.css" ref="stylesheet/css">
+</head>
+
+<body>
+	<h1>NovLang, a dumbass project by Ben Jyring</h1>
+
+	<div id="lexicon">
+		<h2>Lexicon</h2>
+		<input type="text" id="searchInput" onkeyup="searchLexicon()" placeholder="Search for names..">
+
+		<select id="partOfSpeech">
+			<option value="all">View All</option>
+			<option value="noun">Nouns</option>
+			<option value="pronoun">Pronouns</option>
+			<option value="verb">Verbs</option>
+			<option value="adjective">Adjectives</option>
+			<option value="preposition">Prepositions</option>
+			<option value="conjunction">Conjunctions</option>
+		</select>
+
+		<select id="noun" class="subCategory">
+			<option value="all">View All</option>
+			<option value="common">Common</option>
+			<option value="proper">Proper</option>
+			<option value="concrete">Concrete</option>
+			<option value="abstract">Abstract</option>
+			<option value="collective">Collective</option>
+		</select>
+
+		<select id="pronoun" class="subCategory">
+			<option value="all">View All</option>
+			<option value="personal">Personal</option>
+			<option value="relative">Relative</option>
+			<option value="demonstrative">Demonstrative</option>
+			<option value="indefinite">Indefinite</option>
+		</select>
+
+		<select id="verb" class="subCategory">
+			<option value="all">View All</option>
+			<option value="intendedAction">Intended Action</option>
+			<option value="experiencedAction">Experienced Action</option>
+			<option value="linking">Linking</option>
+			<option value="auxillary">Auxillary</option>
+		</select>
+
+		<select id="adjective" class="subCategory">
+			<option value="all">View All</option>
+			<option value="personal">Personal</option>
+			<option value="relative">Relative</option>
+			<option value="demonstrative">Demonstrative</option>
+			<option value="indefinite">Indefinite</option>
+		</select>
+
+		<table id="lexicon"></table>
+
+		<script>
+			// =======
+			// Search Engine
+			// =======
+			function searchLexicon() {
+				// Declare variables
+				var input, filter, table, tr, td, i;
+				input = document.getElementById("searchInput");
+				filter = input.value.toUpperCase();
+				table = document.getElementById("lexicon");
+				tr = table.getElementsByTagName("tr");
+
+				// Loop through all table rows, and hide those who don't match the search query
+				for (i = 0; i < tr.length; i++) {
+					td = tr[i].getElementsByTagName("td")[1];
+					if (td) {
+						if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+							tr[i].style.display = "";
+						} else {
+							tr[i].style.display = "none";
+						}
+					}
+				}
+			}
+		</script>
+	</div>
+
+	<div id="grammar-case">
+		<h2>Grammatical Cases</h2>
+		<table id="grammarcase">
+		<tr>
+				<th>Case</th>
+				<th>Suffix</th>
+				<th>Explanation</th>
+				<th>English prep.</th>
+				<th>Example</th>
+				<th>Translation</th>
+		</tr>
+		<tr>
+				<td>Subjective/Nominative</td>
+				<td></td>
+				<td>Initial form - answers the questions &quot;who?&quot; or &quot;what?&quot;. All dictionaries give nouns in the nominative.</td>
+				<td>-</td>
+				<td>The student is reading.</td>
+				<td>&#x10C;&#xEB; ctudict l&#xEB;s&#xE4;.</td>
+		</tr>
+		<tr>
+				<td>Objective/Accusitive</td>
+				<td>-(t)iv</td>
+				<td>Designates the object of an action.</td>
+				<td>- (object, whole)</td>
+				<td>I read the newspaper.</td>
+				<td>Mi l&#xEB;s&#xE4; &#x10D;urnaliv.</td>
+		</tr>
+		<tr>
+				<td>Indirect object/Dative</td>
+				<td>-t&#xEB;ji</td>
+				<td>Designates that something is given or addressed to the person (object).</td>
+				<td>to</td>
+				<td>I give it to the friend.</td>
+				<td>Mi x&#xEB;v&#xE4; tet amikt&#xEB;ji.</td>
+		</tr>
+		<tr>
+				<td>Possessive/Genitive</td>
+				<td>-(t)en</td>
+				<td>Used to show that something (somebody) belongs or refers to something (somebody).</td>
+				<td>- (-&apos;s)</td>
+				<td>The bank of the river.</td>
+				<td>Bank &#x10D;&#xEB; rijuten.</td>
+		</tr>
+		<tr>
+				<td>Instrumental</td>
+				<td>-(t)am</td>
+				<td>Used to denote an instrument that helps to make something.</td>
+				<td>with, using</td>
+				<td>I write with a pencil.</td>
+				<td>Mi &#x10D;riv&#xE4; ctilam.</td>
+		</tr>
+		<tr>
+				<td>Prepositional</td>
+				<td>-sa</td>
+				<td>Used to designate a place, or a person (object) that is an object of speech and thought.</td>
+				<td>of, for, on, under, etc.</td>
+				<td>The flowers are on the table.</td>
+				<td>&#x10C;&#xEB; vluren &#x10D;tand&#xEB;n po &#x10D;&#xEB; tabelsa.</td>
+		</tr>
+</table>
+	</div>
+
+	<div id="verb-tense">
+		<h2>Verb Tenses</h2>
+		<table>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+	</div>
+
+<ul>
+	<li>Finno-Ugric descriptors</li>
+	<li>Romantic nouns</li>
+	<li>Germanic actions</li>
+</ul>
+
+<footer>
+	<p>Copyright 2017 Ben Jyring</p>
+</footer>
+
+<!-- +++++++++
+SCRIPTS
+++++++++++ -->
+	<script type="text/javascript" src="{TEMPLATE_PATH}/js/app.js"></script>
+</body>
+</html>
