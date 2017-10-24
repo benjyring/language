@@ -155,7 +155,7 @@ module.exports = function(grunt){
 			compile: {
 				files: [{
 					expand: true,
-					src: ['*.html', '!kitchen-sink.html'],
+					src: ['*.html', '!kitchen-sink.html', '*.json', '!package.json'],
 					dest: 'docs/'
 				}]
 			}

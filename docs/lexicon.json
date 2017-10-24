@@ -1,0 +1,794 @@
+[
+ {
+   &quot;A&quot;: &quot;Mi&quot;,
+   &quot;B&quot;: &quot;I&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Personal&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vi&quot;,
+   &quot;B&quot;: &quot;You&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Personal&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Mijen&quot;,
+   &quot;B&quot;: &quot;We&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Personal&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;&#xEB; tet&quot;,
+   &quot;B&quot;: &quot;This&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Demonstrative&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Tet&quot;,
+   &quot;B&quot;: &quot;That, It&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Demonstrative&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ko&quot;,
+   &quot;B&quot;: &quot;Who?&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Interrogative&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xEB;&quot;,
+   &quot;B&quot;: &quot;What?&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Interrogative&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;&#xEB; k&#xEB;&quot;,
+   &quot;B&quot;: &quot;Which?&quot;,
+   &quot;C&quot;: &quot;Pronoun&quot;,
+   &quot;D&quot;: &quot;Interrogative&quot;
+ },
+ {
+   &quot;A&quot;: &quot;N&#xEB;&quot;,
+   &quot;B&quot;: &quot;Not&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xE9;tte&quot;,
+   &quot;B&quot;: &quot;All (of a number)&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;M&#xE1;ne&quot;,
+   &quot;B&quot;: &quot;Many&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;M&#xED;ne&quot;,
+   &quot;B&quot;: &quot;Few&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;S&#xFA;re&quot;,
+   &quot;B&quot;: &quot;Big&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;P&#xE1;te&quot;,
+   &quot;B&quot;: &quot;Long (not wide)&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;P&#xED;ne&quot;,
+   &quot;B&quot;: &quot;Small&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Lij&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Woman (adult female human)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;People&quot;
+ },
+ {
+   &quot;A&quot;: &quot;T&#xE4;j&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Man (adult male human)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;People&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vivom&quot;,
+   &quot;B&quot;: &quot;Person (individual human)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;People&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#xC1;mik&quot;,
+   &quot;B&quot;: &quot;Friend&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;People&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ctud&#xED;ct&quot;,
+   &quot;B&quot;: &quot;Student&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;People&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vlur&quot;,
+   &quot;B&quot;: &quot;Flower&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x17D;iv&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Animal&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Pliv&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Fish&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Let&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Bird&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Xond&quot;,
+   &quot;B&quot;: &quot;Dog&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ku&#x17E;&quot;,
+   &quot;B&quot;: &quot;Louse&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Arb&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Tree (not log)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cem&#xF3;m&quot;,
+   &quot;B&quot;: &quot;Seed&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;F&#xF6;l&quot;,
+   &quot;B&quot;: &quot;Leaf&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;T&#xE1;tu&quot;,
+   &quot;B&quot;: &quot;Root&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Eck&#xF3;r&#x10D;&quot;,
+   &quot;B&quot;: &quot;Bark (of tree)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Botany&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Pjel&quot;,
+   &quot;B&quot;: &quot;Skin (person&#x2019;s)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cliv&quot;,
+   &quot;B&quot;: &quot;Flesh (meat)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Canx&quot;,
+   &quot;B&quot;: &quot;Blood&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Rod&quot;,
+   &quot;B&quot;: &quot;Bone&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Lom&quot;,
+   &quot;B&quot;: &quot;Grease (fat, organic substance)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;C&#xEB;mom&quot;,
+   &quot;B&quot;: &quot;Egg&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Xirv&#xEB;&quot;,
+   &quot;B&quot;: &quot;Horn (bull)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Xirv&#xEB;la&quot;,
+   &quot;B&quot;: &quot;Antler&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cval&quot;,
+   &quot;B&quot;: &quot;Tail&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Volet&quot;,
+   &quot;B&quot;: &quot;Feather (large, not down)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Animals&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kab&#xEB;ja&quot;,
+   &quot;B&quot;: &quot;Hair (on head of humans)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kab&#xEB;ca&quot;,
+   &quot;B&quot;: &quot;Head (anatomic)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Or&#xEB;la&quot;,
+   &quot;B&quot;: &quot;Ear&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Il&#xED;ta&quot;,
+   &quot;B&quot;: &quot;Eye&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;N&#xE1;ca&quot;,
+   &quot;B&quot;: &quot;Nose&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;B&#xF3;ka&quot;,
+   &quot;B&quot;: &quot;Mouth&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;D&#xEB;nta&quot;,
+   &quot;B&quot;: &quot;Tooth (front, rather than molar)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;L&#xEB;nja&quot;,
+   &quot;B&quot;: &quot;Tongue (anatomical)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kl&#xE1;&#x10D;a&quot;,
+   &quot;B&quot;: &quot;Claw&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Tat&#xEB;ta&quot;,
+   &quot;B&quot;: &quot;Foot (not leg)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Xen&#xF3;la&quot;,
+   &quot;B&quot;: &quot;Knee&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xE1;ma&quot;,
+   &quot;B&quot;: &quot;Hand&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Entr&#xEB;la&quot;,
+   &quot;B&quot;: &quot;Belly (lower part of body, abdomen)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xE1;la&quot;,
+   &quot;B&quot;: &quot;Neck (not nape)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;B&#xF3;r&#x10D;ten&quot;,
+   &quot;B&quot;: &quot;Breasts (female; 1955 still breast)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xF3;rda&quot;,
+   &quot;B&quot;: &quot;Heart&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;F&#xEB;tja&quot;,
+   &quot;B&quot;: &quot;Liver&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Anatomy&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Dr&#xEB;kk&#xE4;&quot;,
+   &quot;B&quot;: &quot;Drink&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Bort&#xE4;&quot;,
+   &quot;B&quot;: &quot;Eat&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Bit&#xE4;&quot;,
+   &quot;B&quot;: &quot;Bite&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;i&#xEB;&quot;,
+   &quot;B&quot;: &quot;See&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Xir&#xEB;&quot;,
+   &quot;B&quot;: &quot;Hear&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vit&#xEB;&quot;,
+   &quot;B&quot;: &quot;Know (facts)&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;pov&#xEB;&quot;,
+   &quot;B&quot;: &quot;Sleep&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Mjurt&#xEB;&quot;,
+   &quot;B&quot;: &quot;Die&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Mjurt&#xE4;&quot;,
+   &quot;B&quot;: &quot;Kill&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;&#xEB; mjurt&#xE4;&quot;,
+   &quot;B&quot;: &quot;To commit suicide&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;L&#xEB;s&#xE4;&quot;,
+   &quot;B&quot;: &quot;Read&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;riv&#xE4;&quot;,
+   &quot;B&quot;: &quot;Write&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;vim&#xE4;&quot;,
+   &quot;B&quot;: &quot;Swim&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vlij&#xE4;&quot;,
+   &quot;B&quot;: &quot;Fly&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Lop&#xE4;&quot;,
+   &quot;B&quot;: &quot;Walk&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kom&#xE4;&quot;,
+   &quot;B&quot;: &quot;Come&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Lij&#xEB;&quot;,
+   &quot;B&quot;: &quot;Lie (on side, to be reclined)&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Lij&#xE4;&quot;,
+   &quot;B&quot;: &quot;Lie (to lower into reclining)&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cit&#xEB;&quot;,
+   &quot;B&quot;: &quot;Sit (to be sitting)&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cit&#xE4;&quot;,
+   &quot;B&quot;: &quot;Sit (to lower into sitting)&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;tand&#xEB;&quot;,
+   &quot;B&quot;: &quot;Stand&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;tand&#xE4;&quot;,
+   &quot;B&quot;: &quot;Stand&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;X&#xEB;v&#xE4;&quot;,
+   &quot;B&quot;: &quot;Give&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;C&#xEB;j&#xE4;&quot;,
+   &quot;B&quot;: &quot;Say&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Intentional Action&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#xC1;ranen&quot;,
+   &quot;B&quot;: &quot;Sun&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;L&#xFA;nen&quot;,
+   &quot;B&quot;: &quot;Moon&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Estr&#xED;l&quot;,
+   &quot;B&quot;: &quot;Star&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;L&#xE1;kil&quot;,
+   &quot;B&quot;: &quot;Water&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Pitil&quot;,
+   &quot;B&quot;: &quot;Rain&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ston&quot;,
+   &quot;B&quot;: &quot;Stone&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Cand&quot;,
+   &quot;B&quot;: &quot;Sand&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Jordin&quot;,
+   &quot;B&quot;: &quot;Earth (soil)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Vevd&quot;,
+   &quot;B&quot;: &quot;Cloud (not fog)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;R&#xE4;ken&quot;,
+   &quot;B&quot;: &quot;Smoke (noun, of fire)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;X&#xE4;rd&quot;,
+   &quot;B&quot;: &quot;Fire&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;A&#x10D;k&quot;,
+   &quot;B&quot;: &quot;Ash(es)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Natural Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Brend&#xEB;&quot;,
+   &quot;B&quot;: &quot;Burn&quot;,
+   &quot;C&quot;: &quot;Verb&quot;,
+   &quot;D&quot;: &quot;Experience (Action)&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xE1;mi&quot;,
+   &quot;B&quot;: &quot;Path (road, trail; not street)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;T&#xE1;bel&quot;,
+   &quot;B&quot;: &quot;Table&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Constructed Inanimate&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ctil&quot;,
+   &quot;B&quot;: &quot;Pencil&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#x10C;urnal&quot;,
+   &quot;B&quot;: &quot;Newspaper&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;M&#xE1;ntel&quot;,
+   &quot;B&quot;: &quot;Mountain (not hill)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;R&#xED;ju&quot;,
+   &quot;B&quot;: &quot;River&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Bank&quot;,
+   &quot;B&quot;: &quot;Bank (of the river)&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;P&#xED;re&quot;,
+   &quot;B&quot;: &quot;Red&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Color&quot;
+ },
+ {
+   &quot;A&quot;: &quot;V&#xED;r&#xEB;je&quot;,
+   &quot;B&quot;: &quot;Green&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Color&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xE9;lt&#xE4;ne&quot;,
+   &quot;B&quot;: &quot;Yellow&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Color&quot;
+ },
+ {
+   &quot;A&quot;: &quot;V&#xE1;lke&quot;,
+   &quot;B&quot;: &quot;White&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Color&quot;
+ },
+ {
+   &quot;A&quot;: &quot;M&#xFA;&#x10D;te&quot;,
+   &quot;B&quot;: &quot;Black&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Color&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Nikt&quot;,
+   &quot;B&quot;: &quot;Night&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Hj&#xFA;me&quot;,
+   &quot;B&quot;: &quot;Hot (weather)&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kj&#xFA;lme&quot;,
+   &quot;B&quot;: &quot;Cold (weather)&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;T&#xE9;lje&quot;,
+   &quot;B&quot;: &quot;Full&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;U&#x10D;e&quot;,
+   &quot;B&quot;: &quot;New&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;V&#xE1;ne&quot;,
+   &quot;B&quot;: &quot;Good&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;R&#xED;nje&quot;,
+   &quot;B&quot;: &quot;Round&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;K&#xFC;ve&quot;,
+   &quot;B&quot;: &quot;Dry (substance)&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Noma&quot;,
+   &quot;B&quot;: &quot;Name&quot;,
+   &quot;C&quot;: &quot;Adjective&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;R&#xEB;&quot;,
+   &quot;B&quot;: &quot;About&quot;,
+   &quot;C&quot;: &quot;Preposition&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Po&quot;,
+   &quot;B&quot;: &quot;On&quot;,
+   &quot;C&quot;: &quot;Preposition&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#xD3;b&#xEB;r&quot;,
+   &quot;B&quot;: &quot;Above&quot;,
+   &quot;C&quot;: &quot;Preposition&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;&#xDA;ndir&quot;,
+   &quot;B&quot;: &quot;Under&quot;,
+   &quot;C&quot;: &quot;Preposition&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;N&#xED;ben&quot;,
+   &quot;B&quot;: &quot;Beside&quot;,
+   &quot;C&quot;: &quot;Preposition&quot;,
+   &quot;D&quot;: &quot;&quot;
+ },
+ {
+   &quot;A&quot;: &quot;V&#xF6;&quot;,
+   &quot;B&quot;: &quot;0&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Un&quot;,
+   &quot;B&quot;: &quot;1&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Du&quot;,
+   &quot;B&quot;: &quot;2&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Tri(t)&quot;,
+   &quot;B&quot;: &quot;3&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Kvi(t)&quot;,
+   &quot;B&quot;: &quot;4&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Pin(t)&quot;,
+   &quot;B&quot;: &quot;5&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;C&#xEB;n(a)&quot;,
+   &quot;B&quot;: &quot;6&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;C&#xEB;t(a)&quot;,
+   &quot;B&quot;: &quot;7&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Ok(a)&quot;,
+   &quot;B&quot;: &quot;8&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;Nok(a)&quot;,
+   &quot;B&quot;: &quot;9&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ },
+ {
+   &quot;A&quot;: &quot;D&#xEB;k(a)&quot;,
+   &quot;B&quot;: &quot;10&quot;,
+   &quot;C&quot;: &quot;Noun&quot;,
+   &quot;D&quot;: &quot;Number&quot;
+ }
+]
