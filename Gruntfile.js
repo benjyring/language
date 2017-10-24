@@ -36,7 +36,7 @@ module.exports = function(grunt){
 			theme: 'docs/'
 		},
 		jshint: {
-			files: ['js/app.js']/*,
+			files: ['js/components/app.js']/*,
 			options: {
 				globals: {
 					jQuery: true
@@ -50,13 +50,13 @@ module.exports = function(grunt){
 			},
 			dist: {
 				files: {
-					'app.min.js': [
+					'js/app.min.js': [
 						'js/components/jquery-3.2.1.min.js',
 						'js/components/bootstrap.min.js',
 						'js/components/scripts-ck.js',
 						'js/components/modernizr.js',
 						'js/components/waypoints.min.js',
-						'js/app.js'
+						'js/components/app.js'
 					]
 				}
 			}
