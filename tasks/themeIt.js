@@ -3,10 +3,10 @@ var cheerio = require('cheerio');
 
 module.exports = function(grunt) {
 
-	var stringReplacements = [{
-			pattern: /(=["'])((js|img|css)\/)/gi,
-			replacement: '$1{TEMPLATE_PATH}/$2'
-		}];
+	// var stringReplacements = [{
+	// 		pattern: /(=["'])((js|img|css)\/)/gi,
+	// 		replacement: ''
+	// 	}];
 
 	grunt.registerMultiTask('themeIt', 'Compile html files for theme.', function() {
 
@@ -56,9 +56,9 @@ module.exports = function(grunt) {
 
 			contents = $.html();
 
-			stringReplacements.forEach(function(element) {
-				contents = contents.replace(element.pattern, element.replacement);
-			});
+			// stringReplacements.forEach(function(element) {
+			// 	contents = contents.replace(element.pattern, element.replacement);
+			// });
 
 			grunt.file.write(file.dest, contents);
 
