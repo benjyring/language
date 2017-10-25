@@ -23,7 +23,9 @@
     "r": "high Germanic",
     "t": "t",
     "v": "v",
-    "x": "h"
+    "x": "h",
+    "z": "z",
+    "ž": "zh"
   },
   "soft rules": {
     "no voiced pairs of consonants (except d, t)": "to avoid ambiguity",
@@ -34,7 +36,8 @@
     "-nx": "same as -ng in English",
     "Čë": "Prefix word denoting one in a series. Čë tet = this, Tet = That, Čë kë = which, Kë = what",
     "Soft/hard voice": "To soften a word, use 'i' as the accented vowel instead of 'a'",
-    "Ka-": "Prefix denoting intention"
+    "Ka-": "Prefix denoting intention",
+    "Auxiliary verbs": "These don't exist, but are formed with modifiers"
   },
   "syntax": {
     "numerals before nouns": "",
