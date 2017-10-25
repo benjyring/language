@@ -1,58 +1,58 @@
 {
-  &quot;vowels&quot;: {
-    &quot;a&quot;: &quot;uh&quot;,
-    &quot;&#xE5;&quot;: &quot;ah&quot;,
-    &quot;&#xE4;&quot;: &quot;ai&quot;,
-    &quot;e&quot;: &quot;eh&quot;,
-    &quot;&#xEB;&quot;: &quot;ey&quot;,
-    &quot;o&quot;: &quot;oh&quot;,
-    &quot;&#xF6;&quot;: &quot;oi&quot;,
-    &quot;u&quot;: &quot;oo&quot;,
-    &quot;i&quot;: &quot;ee&quot;,
+  "vowels": {
+    "a": "uh",
+    "å": "ah",
+    "ä": "ai",
+    "e": "eh",
+    "ë": "ey",
+    "o": "oh",
+    "ö": "oi",
+    "u": "oo",
+    "i": "ee",
   },
-  &quot;consonants&quot;: {
-    &quot;b&quot;: &quot;b&quot;,
-    &quot;c&quot;: &quot;s&quot;,
-    &quot;&#x10D;&quot;: &quot;sh&quot;,
-    &quot;d&quot;: &quot;d&quot;,
-    &quot;j&quot;: &quot;y&quot;,
-    &quot;k&quot;: &quot;k&quot;,
-    &quot;l&quot;: &quot;l&quot;,
-    &quot;m&quot;: &quot;m&quot;,
-    &quot;n&quot;: &quot;n&quot;,
-    &quot;r&quot;: &quot;high Germanic&quot;,
-    &quot;t&quot;: &quot;t&quot;,
-    &quot;v&quot;: &quot;v&quot;,
-    &quot;x&quot;: &quot;h&quot;
+  "consonants": {
+    "b": "b",
+    "c": "s",
+    "č": "sh",
+    "d": "d",
+    "j": "y",
+    "k": "k",
+    "l": "l",
+    "m": "m",
+    "n": "n",
+    "r": "high Germanic",
+    "t": "t",
+    "v": "v",
+    "x": "h"
   },
-  &quot;soft rules&quot;: {
-    &quot;no voiced pairs of consonants (except d, t)&quot;: &quot;to avoid ambiguity&quot;,
-    &quot;implied j&quot;: &quot;Separates a word ending in a vowel and a word beginning in a vowel. This sound is also produced between words ending with a vowel and words beginning with &apos;x.&apos;&quot;,
-    &quot;no q or w sounds&quot;: &quot;to maintain a non-latin tone&quot;,
-    &quot;written with iphone English keyboard&quot;: &quot;to reduce barrier to entry&quot;,
-    &quot;Nouns end in consonants&quot;: &quot;Adjectives and adverbs end in vowels&quot;,
-    &quot;-nx&quot;: &quot;same as -ng in English&quot;,
-    &quot;&#x10C;&#xEB;&quot;: &quot;Prefix word denoting one in a series. &#x10C;&#xEB; tet = this, Tet = That, &#x10C;&#xEB; k&#xEB; = which, K&#xEB; = what&quot;,
-    &quot;Soft/hard voice&quot;: &quot;To soften a word, use &apos;i&apos; as the accented vowel instead of &apos;a&apos;&quot;,
-    &quot;Ka-&quot;: &quot;Prefix denoting intention&quot;
+  "soft rules": {
+    "no voiced pairs of consonants (except d, t)": "to avoid ambiguity",
+    "implied j": "Separates a word ending in a vowel and a word beginning in a vowel. This sound is also produced between words ending with a vowel and words beginning with 'x.'",
+    "no q or w sounds": "to maintain a non-latin tone",
+    "written with iphone English keyboard": "to reduce barrier to entry",
+    "Nouns end in consonants": "Adjectives and adverbs end in vowels",
+    "-nx": "same as -ng in English",
+    "Čë": "Prefix word denoting one in a series. Čë tet = this, Tet = That, Čë kë = which, Kë = what",
+    "Soft/hard voice": "To soften a word, use 'i' as the accented vowel instead of 'a'",
+    "Ka-": "Prefix denoting intention"
   },
-  &quot;syntax&quot;: {
-    &quot;numerals before nouns&quot;: &quot;&quot;,
-    &quot;adjectives after nouns&quot;: &quot;(at least in compounds)&quot;,
-    &quot;postpositions&quot;: &quot;&quot;,
-    &quot;subjects before verbs&quot;: &quot;&quot;
+  "syntax": {
+    "numerals before nouns": "",
+    "adjectives after nouns": "(at least in compounds)",
+    "postpositions": "",
+    "subjects before verbs": ""
   },
-  &quot;build-pattern&quot;: {
-    &quot;process or state&quot;: &quot;knowledge, departure, whiteness&quot;,
-    &quot;associated person&quot;: &quot;fighter, librarian&quot;,
-    &quot;place&quot;: &quot;dining room, book-place (= library)&quot;,
-    &quot;collection&quot;: &quot;woods, word-hoard (= dictionary)&quot;,
-    &quot;tool&quot;: &quot;borer, cut-thing (= knife)&quot;,
-    &quot;characteristic adjective&quot;: &quot;warlike, bovine, stellar&quot;,
-    &quot;causative&quot;: &quot;redden, make-die (= kill)&quot;,
-    &quot;diminutive&quot;: &quot;doggie, Johnnie, mujercita&quot;,
-    &quot;augmentative&quot;: &quot;big-dog, mujerona&quot;,
-    &quot;inhabitant&quot;: &quot;Verdurian, Xurnese&quot;,
-    &quot;negative&quot;: &quot;unfamiliar, undo, atheism&quot;
+  "build-pattern": {
+    "process or state": "knowledge, departure, whiteness",
+    "associated person": "fighter, librarian",
+    "place": "dining room, book-place (= library)",
+    "collection": "woods, word-hoard (= dictionary)",
+    "tool": "borer, cut-thing (= knife)",
+    "characteristic adjective": "warlike, bovine, stellar",
+    "causative": "redden, make-die (= kill)",
+    "diminutive": "doggie, Johnnie, mujercita",
+    "augmentative": "big-dog, mujerona",
+    "inhabitant": "Verdurian, Xurnese",
+    "negative": "unfamiliar, undo, atheism"
   }
 }

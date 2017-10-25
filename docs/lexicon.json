@@ -1,794 +1,794 @@
 [
  {
-   &quot;A&quot;: &quot;Mi&quot;,
-   &quot;B&quot;: &quot;I&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Personal&quot;
+   "A": "Mi",
+   "B": "I",
+   "C": "Pronoun",
+   "D": "Personal"
  },
  {
-   &quot;A&quot;: &quot;Vi&quot;,
-   &quot;B&quot;: &quot;You&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Personal&quot;
+   "A": "Vi",
+   "B": "You",
+   "C": "Pronoun",
+   "D": "Personal"
  },
  {
-   &quot;A&quot;: &quot;Mijen&quot;,
-   &quot;B&quot;: &quot;We&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Personal&quot;
+   "A": "Mijen",
+   "B": "We",
+   "C": "Pronoun",
+   "D": "Personal"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;&#xEB; tet&quot;,
-   &quot;B&quot;: &quot;This&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Demonstrative&quot;
+   "A": "Čë tet",
+   "B": "This",
+   "C": "Pronoun",
+   "D": "Demonstrative"
  },
  {
-   &quot;A&quot;: &quot;Tet&quot;,
-   &quot;B&quot;: &quot;That, It&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Demonstrative&quot;
+   "A": "Tet",
+   "B": "That, It",
+   "C": "Pronoun",
+   "D": "Demonstrative"
  },
  {
-   &quot;A&quot;: &quot;Ko&quot;,
-   &quot;B&quot;: &quot;Who?&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Interrogative&quot;
+   "A": "Ko",
+   "B": "Who?",
+   "C": "Pronoun",
+   "D": "Interrogative"
  },
  {
-   &quot;A&quot;: &quot;K&#xEB;&quot;,
-   &quot;B&quot;: &quot;What?&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Interrogative&quot;
+   "A": "Kë",
+   "B": "What?",
+   "C": "Pronoun",
+   "D": "Interrogative"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;&#xEB; k&#xEB;&quot;,
-   &quot;B&quot;: &quot;Which?&quot;,
-   &quot;C&quot;: &quot;Pronoun&quot;,
-   &quot;D&quot;: &quot;Interrogative&quot;
+   "A": "Čë kë",
+   "B": "Which?",
+   "C": "Pronoun",
+   "D": "Interrogative"
  },
  {
-   &quot;A&quot;: &quot;N&#xEB;&quot;,
-   &quot;B&quot;: &quot;Not&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Në",
+   "B": "Not",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;K&#xE9;tte&quot;,
-   &quot;B&quot;: &quot;All (of a number)&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Kétte",
+   "B": "All (of a number)",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;M&#xE1;ne&quot;,
-   &quot;B&quot;: &quot;Many&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Máne",
+   "B": "Many",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;M&#xED;ne&quot;,
-   &quot;B&quot;: &quot;Few&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Míne",
+   "B": "Few",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;S&#xFA;re&quot;,
-   &quot;B&quot;: &quot;Big&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Súre",
+   "B": "Big",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;P&#xE1;te&quot;,
-   &quot;B&quot;: &quot;Long (not wide)&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Páte",
+   "B": "Long (not wide)",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;P&#xED;ne&quot;,
-   &quot;B&quot;: &quot;Small&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Píne",
+   "B": "Small",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Lij&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Woman (adult female human)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;People&quot;
+   "A": "Lijóm",
+   "B": "Woman (adult female human)",
+   "C": "Noun",
+   "D": "People"
  },
  {
-   &quot;A&quot;: &quot;T&#xE4;j&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Man (adult male human)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;People&quot;
+   "A": "Täjóm",
+   "B": "Man (adult male human)",
+   "C": "Noun",
+   "D": "People"
  },
  {
-   &quot;A&quot;: &quot;Vivom&quot;,
-   &quot;B&quot;: &quot;Person (individual human)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;People&quot;
+   "A": "Vivom",
+   "B": "Person (individual human)",
+   "C": "Noun",
+   "D": "People"
  },
  {
-   &quot;A&quot;: &quot;&#xC1;mik&quot;,
-   &quot;B&quot;: &quot;Friend&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;People&quot;
+   "A": "Ámik",
+   "B": "Friend",
+   "C": "Noun",
+   "D": "People"
  },
  {
-   &quot;A&quot;: &quot;Ctud&#xED;ct&quot;,
-   &quot;B&quot;: &quot;Student&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;People&quot;
+   "A": "Ctudíct",
+   "B": "Student",
+   "C": "Noun",
+   "D": "People"
  },
  {
-   &quot;A&quot;: &quot;Vlur&quot;,
-   &quot;B&quot;: &quot;Flower&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Vlur",
+   "B": "Flower",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;&#x17D;iv&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Animal&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Živóm",
+   "B": "Animal",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Pliv&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Fish&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Plivóm",
+   "B": "Fish",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Let&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Bird&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Letóm",
+   "B": "Bird",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Xond&quot;,
-   &quot;B&quot;: &quot;Dog&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Xond",
+   "B": "Dog",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Ku&#x17E;&quot;,
-   &quot;B&quot;: &quot;Louse&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Kuž",
+   "B": "Louse",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Arb&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Tree (not log)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Arbóm",
+   "B": "Tree (not log)",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;Cem&#xF3;m&quot;,
-   &quot;B&quot;: &quot;Seed&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Cemóm",
+   "B": "Seed",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;F&#xF6;l&quot;,
-   &quot;B&quot;: &quot;Leaf&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Föl",
+   "B": "Leaf",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;T&#xE1;tu&quot;,
-   &quot;B&quot;: &quot;Root&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Tátu",
+   "B": "Root",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;Eck&#xF3;r&#x10D;&quot;,
-   &quot;B&quot;: &quot;Bark (of tree)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Botany&quot;
+   "A": "Eckórč",
+   "B": "Bark (of tree)",
+   "C": "Noun",
+   "D": "Botany"
  },
  {
-   &quot;A&quot;: &quot;Pjel&quot;,
-   &quot;B&quot;: &quot;Skin (person&#x2019;s)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Pjel",
+   "B": "Skin (person’s)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Cliv&quot;,
-   &quot;B&quot;: &quot;Flesh (meat)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Cliv",
+   "B": "Flesh (meat)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Canx&quot;,
-   &quot;B&quot;: &quot;Blood&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Canx",
+   "B": "Blood",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Rod&quot;,
-   &quot;B&quot;: &quot;Bone&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Rod",
+   "B": "Bone",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Lom&quot;,
-   &quot;B&quot;: &quot;Grease (fat, organic substance)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Lom",
+   "B": "Grease (fat, organic substance)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;C&#xEB;mom&quot;,
-   &quot;B&quot;: &quot;Egg&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Cëmom",
+   "B": "Egg",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Xirv&#xEB;&quot;,
-   &quot;B&quot;: &quot;Horn (bull)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Xirvë",
+   "B": "Horn (bull)",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Xirv&#xEB;la&quot;,
-   &quot;B&quot;: &quot;Antler&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Xirvëla",
+   "B": "Antler",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Cval&quot;,
-   &quot;B&quot;: &quot;Tail&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Cval",
+   "B": "Tail",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Volet&quot;,
-   &quot;B&quot;: &quot;Feather (large, not down)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Animals&quot;
+   "A": "Volet",
+   "B": "Feather (large, not down)",
+   "C": "Noun",
+   "D": "Animals"
  },
  {
-   &quot;A&quot;: &quot;Kab&#xEB;ja&quot;,
-   &quot;B&quot;: &quot;Hair (on head of humans)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Kabëja",
+   "B": "Hair (on head of humans)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Kab&#xEB;ca&quot;,
-   &quot;B&quot;: &quot;Head (anatomic)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Kabëca",
+   "B": "Head (anatomic)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Or&#xEB;la&quot;,
-   &quot;B&quot;: &quot;Ear&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Orëla",
+   "B": "Ear",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Il&#xED;ta&quot;,
-   &quot;B&quot;: &quot;Eye&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Ilíta",
+   "B": "Eye",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;N&#xE1;ca&quot;,
-   &quot;B&quot;: &quot;Nose&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Náca",
+   "B": "Nose",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;B&#xF3;ka&quot;,
-   &quot;B&quot;: &quot;Mouth&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Bóka",
+   "B": "Mouth",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;D&#xEB;nta&quot;,
-   &quot;B&quot;: &quot;Tooth (front, rather than molar)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Dënta",
+   "B": "Tooth (front, rather than molar)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;L&#xEB;nja&quot;,
-   &quot;B&quot;: &quot;Tongue (anatomical)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Lënja",
+   "B": "Tongue (anatomical)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Kl&#xE1;&#x10D;a&quot;,
-   &quot;B&quot;: &quot;Claw&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Kláča",
+   "B": "Claw",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Tat&#xEB;ta&quot;,
-   &quot;B&quot;: &quot;Foot (not leg)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Tatëta",
+   "B": "Foot (not leg)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Xen&#xF3;la&quot;,
-   &quot;B&quot;: &quot;Knee&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Xenóla",
+   "B": "Knee",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;K&#xE1;ma&quot;,
-   &quot;B&quot;: &quot;Hand&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Káma",
+   "B": "Hand",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Entr&#xEB;la&quot;,
-   &quot;B&quot;: &quot;Belly (lower part of body, abdomen)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Entrëla",
+   "B": "Belly (lower part of body, abdomen)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;K&#xE1;la&quot;,
-   &quot;B&quot;: &quot;Neck (not nape)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Kála",
+   "B": "Neck (not nape)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;B&#xF3;r&#x10D;ten&quot;,
-   &quot;B&quot;: &quot;Breasts (female; 1955 still breast)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Bórčten",
+   "B": "Breasts (female; 1955 still breast)",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;K&#xF3;rda&quot;,
-   &quot;B&quot;: &quot;Heart&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Kórda",
+   "B": "Heart",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;F&#xEB;tja&quot;,
-   &quot;B&quot;: &quot;Liver&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Anatomy&quot;
+   "A": "Fëtja",
+   "B": "Liver",
+   "C": "Noun",
+   "D": "Anatomy"
  },
  {
-   &quot;A&quot;: &quot;Dr&#xEB;kk&#xE4;&quot;,
-   &quot;B&quot;: &quot;Drink&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Drëkkä",
+   "B": "Drink",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Bort&#xE4;&quot;,
-   &quot;B&quot;: &quot;Eat&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Bortä",
+   "B": "Eat",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Bit&#xE4;&quot;,
-   &quot;B&quot;: &quot;Bite&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Bitä",
+   "B": "Bite",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;i&#xEB;&quot;,
-   &quot;B&quot;: &quot;See&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Čië",
+   "B": "See",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Xir&#xEB;&quot;,
-   &quot;B&quot;: &quot;Hear&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Xirë",
+   "B": "Hear",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Vit&#xEB;&quot;,
-   &quot;B&quot;: &quot;Know (facts)&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Vitë",
+   "B": "Know (facts)",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;pov&#xEB;&quot;,
-   &quot;B&quot;: &quot;Sleep&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Čpovë",
+   "B": "Sleep",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Mjurt&#xEB;&quot;,
-   &quot;B&quot;: &quot;Die&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Mjurtë",
+   "B": "Die",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Mjurt&#xE4;&quot;,
-   &quot;B&quot;: &quot;Kill&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Mjurtä",
+   "B": "Kill",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;&#xEB; mjurt&#xE4;&quot;,
-   &quot;B&quot;: &quot;To commit suicide&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Čë mjurtä",
+   "B": "To commit suicide",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;L&#xEB;s&#xE4;&quot;,
-   &quot;B&quot;: &quot;Read&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Lësä",
+   "B": "Read",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;riv&#xE4;&quot;,
-   &quot;B&quot;: &quot;Write&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Črivä",
+   "B": "Write",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;vim&#xE4;&quot;,
-   &quot;B&quot;: &quot;Swim&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Čvimä",
+   "B": "Swim",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Vlij&#xE4;&quot;,
-   &quot;B&quot;: &quot;Fly&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Vlijä",
+   "B": "Fly",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Lop&#xE4;&quot;,
-   &quot;B&quot;: &quot;Walk&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Lopä",
+   "B": "Walk",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Kom&#xE4;&quot;,
-   &quot;B&quot;: &quot;Come&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Komä",
+   "B": "Come",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Lij&#xEB;&quot;,
-   &quot;B&quot;: &quot;Lie (on side, to be reclined)&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Lijë",
+   "B": "Lie (on side, to be reclined)",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Lij&#xE4;&quot;,
-   &quot;B&quot;: &quot;Lie (to lower into reclining)&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Lijä",
+   "B": "Lie (to lower into reclining)",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;Cit&#xEB;&quot;,
-   &quot;B&quot;: &quot;Sit (to be sitting)&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Citë",
+   "B": "Sit (to be sitting)",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;Cit&#xE4;&quot;,
-   &quot;B&quot;: &quot;Sit (to lower into sitting)&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Citä",
+   "B": "Sit (to lower into sitting)",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;tand&#xEB;&quot;,
-   &quot;B&quot;: &quot;Stand&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Čtandë",
+   "B": "Stand",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;&#x10C;tand&#xE4;&quot;,
-   &quot;B&quot;: &quot;Stand&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Čtandä",
+   "B": "Stand",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;X&#xEB;v&#xE4;&quot;,
-   &quot;B&quot;: &quot;Give&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Xëvä",
+   "B": "Give",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;C&#xEB;j&#xE4;&quot;,
-   &quot;B&quot;: &quot;Say&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Intentional Action&quot;
+   "A": "Cëjä",
+   "B": "Say",
+   "C": "Verb",
+   "D": "Intentional Action"
  },
  {
-   &quot;A&quot;: &quot;&#xC1;ranen&quot;,
-   &quot;B&quot;: &quot;Sun&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Áranen",
+   "B": "Sun",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;L&#xFA;nen&quot;,
-   &quot;B&quot;: &quot;Moon&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Lúnen",
+   "B": "Moon",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Estr&#xED;l&quot;,
-   &quot;B&quot;: &quot;Star&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Estríl",
+   "B": "Star",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;L&#xE1;kil&quot;,
-   &quot;B&quot;: &quot;Water&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Lákil",
+   "B": "Water",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Pitil&quot;,
-   &quot;B&quot;: &quot;Rain&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Pitil",
+   "B": "Rain",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Ston&quot;,
-   &quot;B&quot;: &quot;Stone&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Ston",
+   "B": "Stone",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Cand&quot;,
-   &quot;B&quot;: &quot;Sand&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Cand",
+   "B": "Sand",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Jordin&quot;,
-   &quot;B&quot;: &quot;Earth (soil)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Jordin",
+   "B": "Earth (soil)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Vevd&quot;,
-   &quot;B&quot;: &quot;Cloud (not fog)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Vevd",
+   "B": "Cloud (not fog)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;R&#xE4;ken&quot;,
-   &quot;B&quot;: &quot;Smoke (noun, of fire)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Räken",
+   "B": "Smoke (noun, of fire)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;X&#xE4;rd&quot;,
-   &quot;B&quot;: &quot;Fire&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Xärd",
+   "B": "Fire",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;A&#x10D;k&quot;,
-   &quot;B&quot;: &quot;Ash(es)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Natural Inanimate&quot;
+   "A": "Ačk",
+   "B": "Ash(es)",
+   "C": "Noun",
+   "D": "Natural Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Brend&#xEB;&quot;,
-   &quot;B&quot;: &quot;Burn&quot;,
-   &quot;C&quot;: &quot;Verb&quot;,
-   &quot;D&quot;: &quot;Experience (Action)&quot;
+   "A": "Brendë",
+   "B": "Burn",
+   "C": "Verb",
+   "D": "Experience (Action)"
  },
  {
-   &quot;A&quot;: &quot;K&#xE1;mi&quot;,
-   &quot;B&quot;: &quot;Path (road, trail; not street)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Kámi",
+   "B": "Path (road, trail; not street)",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;T&#xE1;bel&quot;,
-   &quot;B&quot;: &quot;Table&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Constructed Inanimate&quot;
+   "A": "Tábel",
+   "B": "Table",
+   "C": "Noun",
+   "D": "Constructed Inanimate"
  },
  {
-   &quot;A&quot;: &quot;Ctil&quot;,
-   &quot;B&quot;: &quot;Pencil&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Ctil",
+   "B": "Pencil",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;&#x10C;urnal&quot;,
-   &quot;B&quot;: &quot;Newspaper&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Čurnal",
+   "B": "Newspaper",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;M&#xE1;ntel&quot;,
-   &quot;B&quot;: &quot;Mountain (not hill)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Mántel",
+   "B": "Mountain (not hill)",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;R&#xED;ju&quot;,
-   &quot;B&quot;: &quot;River&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Ríju",
+   "B": "River",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Bank&quot;,
-   &quot;B&quot;: &quot;Bank (of the river)&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Bank",
+   "B": "Bank (of the river)",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;P&#xED;re&quot;,
-   &quot;B&quot;: &quot;Red&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Color&quot;
+   "A": "Píre",
+   "B": "Red",
+   "C": "Noun",
+   "D": "Color"
  },
  {
-   &quot;A&quot;: &quot;V&#xED;r&#xEB;je&quot;,
-   &quot;B&quot;: &quot;Green&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Color&quot;
+   "A": "Vírëje",
+   "B": "Green",
+   "C": "Noun",
+   "D": "Color"
  },
  {
-   &quot;A&quot;: &quot;K&#xE9;lt&#xE4;ne&quot;,
-   &quot;B&quot;: &quot;Yellow&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Color&quot;
+   "A": "Kéltäne",
+   "B": "Yellow",
+   "C": "Noun",
+   "D": "Color"
  },
  {
-   &quot;A&quot;: &quot;V&#xE1;lke&quot;,
-   &quot;B&quot;: &quot;White&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Color&quot;
+   "A": "Válke",
+   "B": "White",
+   "C": "Noun",
+   "D": "Color"
  },
  {
-   &quot;A&quot;: &quot;M&#xFA;&#x10D;te&quot;,
-   &quot;B&quot;: &quot;Black&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Color&quot;
+   "A": "Múčte",
+   "B": "Black",
+   "C": "Noun",
+   "D": "Color"
  },
  {
-   &quot;A&quot;: &quot;Nikt&quot;,
-   &quot;B&quot;: &quot;Night&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Nikt",
+   "B": "Night",
+   "C": "Noun",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Hj&#xFA;me&quot;,
-   &quot;B&quot;: &quot;Hot (weather)&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Hjúme",
+   "B": "Hot (weather)",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Kj&#xFA;lme&quot;,
-   &quot;B&quot;: &quot;Cold (weather)&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Kjúlme",
+   "B": "Cold (weather)",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;T&#xE9;lje&quot;,
-   &quot;B&quot;: &quot;Full&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Télje",
+   "B": "Full",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;U&#x10D;e&quot;,
-   &quot;B&quot;: &quot;New&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Uče",
+   "B": "New",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;V&#xE1;ne&quot;,
-   &quot;B&quot;: &quot;Good&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Váne",
+   "B": "Good",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;R&#xED;nje&quot;,
-   &quot;B&quot;: &quot;Round&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Rínje",
+   "B": "Round",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;K&#xFC;ve&quot;,
-   &quot;B&quot;: &quot;Dry (substance)&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Küve",
+   "B": "Dry (substance)",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Noma&quot;,
-   &quot;B&quot;: &quot;Name&quot;,
-   &quot;C&quot;: &quot;Adjective&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Noma",
+   "B": "Name",
+   "C": "Adjective",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;R&#xEB;&quot;,
-   &quot;B&quot;: &quot;About&quot;,
-   &quot;C&quot;: &quot;Preposition&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Rë",
+   "B": "About",
+   "C": "Preposition",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;Po&quot;,
-   &quot;B&quot;: &quot;On&quot;,
-   &quot;C&quot;: &quot;Preposition&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Po",
+   "B": "On",
+   "C": "Preposition",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;&#xD3;b&#xEB;r&quot;,
-   &quot;B&quot;: &quot;Above&quot;,
-   &quot;C&quot;: &quot;Preposition&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Óbër",
+   "B": "Above",
+   "C": "Preposition",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;&#xDA;ndir&quot;,
-   &quot;B&quot;: &quot;Under&quot;,
-   &quot;C&quot;: &quot;Preposition&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Úndir",
+   "B": "Under",
+   "C": "Preposition",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;N&#xED;ben&quot;,
-   &quot;B&quot;: &quot;Beside&quot;,
-   &quot;C&quot;: &quot;Preposition&quot;,
-   &quot;D&quot;: &quot;&quot;
+   "A": "Níben",
+   "B": "Beside",
+   "C": "Preposition",
+   "D": ""
  },
  {
-   &quot;A&quot;: &quot;V&#xF6;&quot;,
-   &quot;B&quot;: &quot;0&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Vö",
+   "B": "0",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Un&quot;,
-   &quot;B&quot;: &quot;1&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Un",
+   "B": "1",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Du&quot;,
-   &quot;B&quot;: &quot;2&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Du",
+   "B": "2",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Tri(t)&quot;,
-   &quot;B&quot;: &quot;3&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Tri(t)",
+   "B": "3",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Kvi(t)&quot;,
-   &quot;B&quot;: &quot;4&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Kvi(t)",
+   "B": "4",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Pin(t)&quot;,
-   &quot;B&quot;: &quot;5&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Pin(t)",
+   "B": "5",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;C&#xEB;n(a)&quot;,
-   &quot;B&quot;: &quot;6&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Cën(a)",
+   "B": "6",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;C&#xEB;t(a)&quot;,
-   &quot;B&quot;: &quot;7&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Cët(a)",
+   "B": "7",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Ok(a)&quot;,
-   &quot;B&quot;: &quot;8&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Ok(a)",
+   "B": "8",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;Nok(a)&quot;,
-   &quot;B&quot;: &quot;9&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Nok(a)",
+   "B": "9",
+   "C": "Noun",
+   "D": "Number"
  },
  {
-   &quot;A&quot;: &quot;D&#xEB;k(a)&quot;,
-   &quot;B&quot;: &quot;10&quot;,
-   &quot;C&quot;: &quot;Noun&quot;,
-   &quot;D&quot;: &quot;Number&quot;
+   "A": "Dëk(a)",
+   "B": "10",
+   "C": "Noun",
+   "D": "Number"
  }
 ]
