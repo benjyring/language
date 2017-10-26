@@ -70,6 +70,54 @@ $(function() {
 		}
 		$('select#' + selectId).show();
 	});
+
+// =======
+// Append new table row with inputs
+// =======
+	$('#plus').click(function(){
+		$('table#lexicon tbody').append('<tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>');
+	});
+	$('table#lexicon tbody').on('keyup',function(e){
+		if (e.which === 13) {
+			$('#plus').click();
+		}
+	});
+
+// =======
+// Remove tr
+// =======
+	$('#minus').click(function(){
+		$('table#lexicon tbody tr:last').remove();
+	});
+	$('#convert').click(function(){
+		// Convert table inputs to just td
+		$('table#lexicon tbody td input').each(function(){
+			var inputText = $(this).val();
+			$(this).parent().html(inputText);
+		});
+	});
+	$('#save').click(function(){
+
+// =======
+// Save table#lexicon as JSON
+// =======
+		var rows = [];
+		$('table#lexicon tbody tr').each(function(i, n){
+			var $row = $(n);
+			rows.push({
+				word: $row.find('td:eq(0)').text(),
+				english_translation: $row.find('td:eq(1)').text(),
+				part_of_speech: $row.find('td:eq(2)').text(),
+				subcategory: $row.find('td:eq(3)').text(),
+			});
+		});
+
+		var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(rows));
+		var dlAnchorElem = document.getElementById('save');
+		dlAnchorElem.setAttribute("href",     dataStr     );
+		dlAnchorElem.setAttribute("download", "lexicon-latest.json");
+		dlAnchorElem.click();
+	});
 });
 
 // If you need to load or unload things based on the current media query, use Enquire:
