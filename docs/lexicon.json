@@ -44,308 +44,308 @@
  {
    "A": "Čë kë",
    "B": "Which?",
-   "C": "Pronoun",
+   "C": "Modifier",
    "D": "Interrogative"
  },
  {
    "A": "Në",
    "B": "Not",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Demonstrative"
  },
  {
    "A": "Kétte",
    "B": "All (of a number)",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Indefinite"
  },
  {
    "A": "Máne",
    "B": "Many",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Indefinite"
  },
  {
    "A": "Míne",
    "B": "Few",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Indefinite"
  },
  {
-   "A": "Súre",
+   "A": "Cúre",
    "B": "Big",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Descriptive"
  },
  {
    "A": "Páte",
    "B": "Long (not wide)",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Descriptive"
  },
  {
    "A": "Píne",
    "B": "Small",
-   "C": "Adjective",
-   "D": ""
+   "C": "Modifier",
+   "D": "Descriptive"
  },
  {
    "A": "Lijóm",
    "B": "Woman (adult female human)",
    "C": "Noun",
-   "D": "People"
+   "D": "Common"
  },
  {
    "A": "Täjóm",
    "B": "Man (adult male human)",
    "C": "Noun",
-   "D": "People"
+   "D": "Common"
  },
  {
    "A": "Vivom",
    "B": "Person (individual human)",
    "C": "Noun",
-   "D": "People"
+   "D": "Common"
  },
  {
    "A": "Ámik",
    "B": "Friend",
    "C": "Noun",
-   "D": "People"
+   "D": "Common"
  },
  {
    "A": "Ctudíct",
    "B": "Student",
    "C": "Noun",
-   "D": "People"
+   "D": "Common"
  },
  {
    "A": "Vlur",
    "B": "Flower",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Živóm",
    "B": "Animal",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Plivóm",
    "B": "Fish",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Letóm",
    "B": "Bird",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Xond",
    "B": "Dog",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Kuž",
    "B": "Louse",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Arbóm",
    "B": "Tree (not log)",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Cemóm",
    "B": "Seed",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Föl",
    "B": "Leaf",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Tátu",
    "B": "Root",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Eckórč",
    "B": "Bark (of tree)",
    "C": "Noun",
-   "D": "Botany"
+   "D": "Common"
  },
  {
    "A": "Pjel",
    "B": "Skin (person’s)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Cliv",
    "B": "Flesh (meat)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Canx",
    "B": "Blood",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Rod",
    "B": "Bone",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Lom",
    "B": "Grease (fat, organic substance)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Cëmom",
    "B": "Egg",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Xirvë",
    "B": "Horn (bull)",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Xirvëla",
    "B": "Antler",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Cval",
    "B": "Tail",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Volet",
    "B": "Feather (large, not down)",
    "C": "Noun",
-   "D": "Animals"
+   "D": "Common"
  },
  {
    "A": "Kabëja",
    "B": "Hair (on head of humans)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Kabëca",
    "B": "Head (anatomic)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Orëla",
    "B": "Ear",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Ilíta",
    "B": "Eye",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Náca",
    "B": "Nose",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Bóka",
    "B": "Mouth",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Dënta",
    "B": "Tooth (front, rather than molar)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Lënja",
    "B": "Tongue (anatomical)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Kláča",
    "B": "Claw",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Tatëta",
    "B": "Foot (not leg)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Xenóla",
    "B": "Knee",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Káma",
    "B": "Hand",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Entrëla",
    "B": "Belly (lower part of body, abdomen)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Kála",
    "B": "Neck (not nape)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Bórčten",
    "B": "Breasts (female; 1955 still breast)",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Kórda",
    "B": "Heart",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Fëtja",
    "B": "Liver",
    "C": "Noun",
-   "D": "Anatomy"
+   "D": "Common"
  },
  {
    "A": "Drëkkä",
@@ -495,73 +495,73 @@
    "A": "Áranen",
    "B": "Sun",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Proper"
  },
  {
    "A": "Lúnen",
    "B": "Moon",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Proper"
  },
  {
    "A": "Estríl",
    "B": "Star",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Lákil",
    "B": "Water",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Pitil",
    "B": "Rain",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Ston",
    "B": "Stone",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Cand",
    "B": "Sand",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Jordin",
    "B": "Earth (soil)",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Vevd",
    "B": "Cloud (not fog)",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Räken",
    "B": "Smoke (noun, of fire)",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Xärd",
    "B": "Fire",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Ačk",
    "B": "Ash(es)",
    "C": "Noun",
-   "D": "Natural Inanimate"
+   "D": "Common"
  },
  {
    "A": "Brendë",
@@ -573,7 +573,7 @@
    "A": "Kámi",
    "B": "Path (road, trail; not street)",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Tábel",
@@ -585,114 +585,114 @@
    "A": "Ctil",
    "B": "Pencil",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Čurnal",
    "B": "Newspaper",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Mántel",
    "B": "Mountain (not hill)",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Ríju",
    "B": "River",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Bank",
    "B": "Bank (of the river)",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Píre",
    "B": "Red",
    "C": "Noun",
-   "D": "Color"
+   "D": "Proper"
  },
  {
    "A": "Vírëje",
    "B": "Green",
    "C": "Noun",
-   "D": "Color"
+   "D": "Proper"
  },
  {
    "A": "Kéltäne",
    "B": "Yellow",
    "C": "Noun",
-   "D": "Color"
+   "D": "Proper"
  },
  {
    "A": "Válke",
    "B": "White",
    "C": "Noun",
-   "D": "Color"
+   "D": "Proper"
  },
  {
    "A": "Múčte",
    "B": "Black",
    "C": "Noun",
-   "D": "Color"
+   "D": "Proper"
  },
  {
    "A": "Nikt",
    "B": "Night",
    "C": "Noun",
-   "D": ""
+   "D": "Common"
  },
  {
    "A": "Hjúme",
    "B": "Hot (weather)",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Kjúlme",
    "B": "Cold (weather)",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Télje",
    "B": "Full",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Uče",
    "B": "New",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Váne",
    "B": "Good",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Rínje",
    "B": "Round",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Küve",
    "B": "Dry (substance)",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
    "A": "Noma",
    "B": "Name",
-   "C": "Adjective",
+   "C": "Modifier",
    "D": ""
  },
  {
