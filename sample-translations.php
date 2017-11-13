@@ -12,18 +12,18 @@
 		<tr><td>The sun is shining.</td><td>Aranen ckä.</td></tr>
 		<tr><td>The sun shone.</td><td>Aranen ckäl.</td></tr>
 		<tr><td>The sun will shine.</td><td>Aranen beckä.</td></tr>
-		<tr><td>The sun is shining again</td><td>Aranen ckä.</td></tr>
-		<tr><td>The sun will shine tomorrow</td><td>Aranen beckä mäne.</td></tr>
-		<tr><td>The sun shines brightly</td><td>Aranen helje ckä.</td></tr>
-		<tr><td>The bright sun shines</td><td>Helje Aranen ckä.</td></tr>
-		<tr><td>The sun is rising now</td><td>Aranen risä </td></tr>
-		<tr><td>All the people shouted</td><td>Undefined</td></tr>
-		<tr><td>Some of the people shouted</td><td>Undefined</td></tr>
-		<tr><td>Many of the people shouted twice</td><td>Undefined</td></tr>
-		<tr><td>Happy people often shout</td><td>Undefined</td></tr>
-		<tr><td>The kitten jumped up</td><td>Undefined</td></tr>
-		<tr><td>The kitten jumped onto the table</td><td>Undefined</td></tr>
-		<tr><td>My little kitten walked away</td><td>Undefined</td></tr>
+		<tr><td>The sun is shining again.</td><td>Aranen ckä.</td></tr>
+		<tr><td>The sun will shine tomorrow.</td><td>Aranen beckä mäne.</td></tr>
+		<tr><td>The sun shines brightly.</td><td>Aranen xelje ckä.</td></tr>
+		<tr><td>The bright sun shines.</td><td>Xelje Aranen ckä.</td></tr>
+		<tr><td>The sun is rising now.</td><td>Aranen risä nu.</td></tr>
+		<tr><td>All the people shouted.</td><td>Kette če vivomen xoläl.</td></tr>
+		<tr><td>Some of the people shouted.</td><td>Monet če vivomen xoläl.</td></tr>
+		<tr><td>Many of the people shouted twice.</td><td>Mane vivomen xoläl du kijalen.</td></tr>
+		<tr><td>Happy people often shout.</td><td>Jole vivomen caje xolä.</td></tr>
+		<tr><td>The kitten jumped up.</td><td>Kotvi xopäl ob.</td></tr>
+		<tr><td>The kitten jumped onto the table</td><td>Kotvi xopäl ob, po tabel.</td></tr>
+		<tr><td>My little kitten walked away</td><td>Miten little kotvi lopäl ibutër.</td></tr>
 		<tr><td>It's raining</td><td>Undefined</td></tr>
 		<tr><td>The rain came down</td><td>Undefined</td></tr>
 		<tr><td>The kitten is playing in the rain</td><td>Undefined</td></tr>
