@@ -1,3 +1,4 @@
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,9 +77,10 @@
 				<div class="col-sm-4">
 					<select id="modifier" class="form-control subCategory">
 						<option value="all">View All</option>
-						<option value="personal">Personal</option>
-						<option value="relative">Relative</option>
+						<option value="descriptive">Descriptive</option>
+						<option value="possessive">Possessive</option>
 						<option value="demonstrative">Demonstrative</option>
+						<option value="interrogative">Interrogative</option>
 						<option value="indefinite">Indefinite</option>
 					</select>
 				</div>
@@ -129,141 +131,14 @@
 			</script>
 		</div>
 
-		<div id="grammar-case">
-			<h2>Grammatical Cases</h2>
-			<table id="grammarcase">
-				<thead>
-					<tr>
-							<th>Case</th>
-							<th>Suffix</th>
-							<th>Explanation</th>
-							<th>English prep.</th>
-							<th>Example</th>
-							<th>Translation</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-							<td>Subjective/Nominative</td>
-							<td></td>
-							<td>Initial form - answers the questions "who?" or "what?". All dictionaries give nouns in the nominative.</td>
-							<td>-</td>
-							<td>The student is reading.</td>
-							<td>Čë ctudict lësä.</td>
-					</tr>
-					<tr>
-							<td>Objective/Accusitive</td>
-							<td>-(t)iv</td>
-							<td>Designates the object of an action.</td>
-							<td>- (object, whole)</td>
-							<td>I read the newspaper.</td>
-							<td>Mi lësä čurnaliv.</td>
-					</tr>
-					<tr>
-							<td>Indirect object/Dative</td>
-							<td>-tëji</td>
-							<td>Designates that something is given or addressed to the person (object).</td>
-							<td>to</td>
-							<td>I give it to the friend.</td>
-							<td>Mi xëvä tet amiktëji.</td>
-					</tr>
-					<tr>
-							<td>Possessive/Genitive</td>
-							<td>-(t)en</td>
-							<td>Used to show that something (somebody) belongs or refers to something (somebody).</td>
-							<td>- (-'s)</td>
-							<td>The bank of the river.</td>
-							<td>Bank čë rijuten.</td>
-					</tr>
-					<tr>
-							<td>Instrumental</td>
-							<td>-(t)am</td>
-							<td>Used to denote an instrument that helps to make something.</td>
-							<td>with, using</td>
-							<td>I write with a pencil.</td>
-							<td>Mi črivä ctilam.</td>
-					</tr>
-					<tr>
-							<td>Prepositional</td>
-							<td>-sa</td>
-							<td>Used to designate a place, or a person (object) that is an object of speech and thought.</td>
-							<td>of, for, on, under, etc.</td>
-							<td>The flowers are on the table.</td>
-							<td>Čë vluren čtandën po čë tabelsa.</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
+<?php include "grammar-cases.php" ?>
 
-		<div id="verb-tense">
-			<h2>Verb Tenses</h2>
-			<table id="verbtense">
-				<thead>
-					<tr>
-						<th></th>
-						<th>Present</th>
-						<th>Past</th>
-						<th>Future</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td><strong>Simple</strong></td>
-						<td>I <em>read</em> nearly every day.</td>
-						<td>Last night, I <em>read</em> an entire novel.</td>
-						<td>I <em>will read</em> as much as I can this year.</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td>Mi lësä čë kette daxt.</td>
-						<td></td>
-						<td></td>
-					</tr>
-					<tr>
-						<td><strong>Continuous</strong></td>
-						<td>I <em>am reading</em> Shakespeare at the moment.</td>
-						<td>I <em>was reading</em> Edgar Allan Poe last night.</td>
-						<td>I <em>will be reading</em> Nathaniel Hawthorne soon.</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-					<tr>
-						<td><strong>Perfect</strong></td>
-						<td>I <em>have read</em> so many books I can’t keep count.</td>
-						<td>I <em>had read</em> at least 100 books by the time I was twelve.</td>
-						<td>I <em>will have read</em> at least 500 books by the end of the year.</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-					<tr>
-						<td><strong>Perfect Continuous</strong></td>
-						<td>I <em>have been reading</em> since I was four years old.</td>
-						<td>I <em>had been reading</em> for at least a year before my sister learned to read.</td>
-						<td>I <em>will have been reading</em> for at least two hours before dinner tonight.</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
+<?php include "verb-tenses.php" ?>
 
-	<ul>
-		<li>Finno-Ugric descriptors</li>
-		<li>Romantic nouns</li>
-		<li>Germanic actions</li>
-	</ul>
+<?php include "pronoun-correlations.php" ?>
+
+<?php include "sample-translations.php" ?>
+
 	</div> <!-- END CONTAINER -->
 
 	<footer>
@@ -278,3 +153,4 @@
 <script type="text/javascript" src="js/app.min.js"></script>
 </body>
 </html>
+<?php

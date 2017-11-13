@@ -71,6 +71,21 @@ $(function() {
 		$('select#' + selectId).show();
 	});
 
+	$('select.subCategory').change(function(){
+		var subSelectId = $('select.subCategory option:selected').val();
+		if (subSelectId != 'all') {
+			$('#lexicon tbody tr').hide();
+			$('#lexicon tbody td.subCategory').each(function(i){
+				if ($(this).text().toLowerCase() === subSelectId){
+					$(this).parent().show();
+				}
+			});
+		} else {
+			$('#lexicon tbody tr').show();
+		}
+		$('select#' + subSelectId).show();
+	});
+
 // =======
 // Append new table row with inputs
 // =======
