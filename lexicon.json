@@ -1,896 +1,973 @@
 [
 {
-	"A": "Mi",
-	"B": "I",
-	"C": "Pronoun",
-	"D": "Personal"
+    "word": "Mi",
+    "english_translation": "I",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Personal"
 },
 {
-	"A": "Vi",
-	"B": "You",
-	"C": "Pronoun",
-	"D": "Personal"
+    "word": "Vi",
+    "english_translation": "You",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Personal"
 },
 {
-	"A": "Mijen",
-	"B": "We",
-	"C": "Pronoun",
-	"D": "Personal"
+    "word": "Mijen",
+    "english_translation": "We",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Personal"
 },
 {
-	"A": "Četet",
-	"B": "This",
-	"C": "Pronoun",
-	"D": "Demonstrative"
+    "word": "Četet",
+    "english_translation": "This",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Demonstrative"
 },
 {
-	"A": "Tet",
-	"B": "That, It",
-	"C": "Pronoun",
-	"D": "Demonstrative"
+    "word": "Tet",
+    "english_translation": "That, It",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Demonstrative"
 },
 {
-	"A": "Ko",
-	"B": "Who?",
-	"C": "Pronoun",
-	"D": "Interrogative"
+    "word": "Ko",
+    "english_translation": "Who?",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Interrogative"
 },
 {
-	"A": "Kë",
-	"B": "What?",
-	"C": "Pronoun",
-	"D": "Interrogative"
+    "word": "Kë",
+    "english_translation": "What?",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Interrogative"
 },
 {
-	"A": "Čë kë",
-	"B": "Which?",
-	"C": "Modifier",
-	"D": "Interrogative"
+    "word": "Čë kë",
+    "english_translation": "Which?",
+    "part_of_speech": "Modifier",
+    "subcategory": "Interrogative"
 },
 {
-	"A": "Ku",
-	"B": "How?",
-	"C": "Modifier",
-	"D": "Interrogative"
+    "word": "Ku",
+    "english_translation": "How?",
+    "part_of_speech": "Modifier",
+    "subcategory": "Interrogative"
 },
 {
-	"A": "Kijal",
-	"B": "When?",
-	"C": "Modifier",
-	"D": "Interrogative"
+    "word": "Kijal",
+    "english_translation": "When?",
+    "part_of_speech": "Modifier",
+    "subcategory": "Interrogative"
 },
 {
-	"A": "Në",
-	"B": "Not",
-	"C": "Modifier",
-	"D": "Demonstrative"
+    "word": "Në",
+    "english_translation": "Not",
+    "part_of_speech": "Modifier",
+    "subcategory": "Demonstrative"
 },
 {
-	"A": "Melke",
-	"B": "Almost",
-	"C": "Modifier",
-	"D": ""
+    "word": "Melke",
+    "english_translation": "Almost",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Joke",
-	"B": "Every",
-	"C": "Modifier",
-	"D": ""
+    "word": "Joke",
+    "english_translation": "Every",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Kétte",
-	"B": "All (of a number)",
-	"C": "Modifier",
-	"D": "Indefinite"
+    "word": "Kétte",
+    "english_translation": "All (of a number)",
+    "part_of_speech": "Modifier",
+    "subcategory": "Indefinite"
 },
 {
-	"A": "Čë kétte",
-	"B": "Every",
-	"C": "Modifier",
-	"D": "Indefinite"
+    "word": "Čë kétte",
+    "english_translation": "Every",
+    "part_of_speech": "Modifier",
+    "subcategory": "Indefinite"
 },
 {
-	"A": "Máne",
-	"B": "Many",
-	"C": "Modifier",
-	"D": "Indefinite"
+    "word": "Máne",
+    "english_translation": "Many",
+    "part_of_speech": "Modifier",
+    "subcategory": "Indefinite"
 },
 {
-	"A": "Míne",
-	"B": "Few",
-	"C": "Modifier",
-	"D": "Indefinite"
+    "word": "Míne",
+    "english_translation": "Few",
+    "part_of_speech": "Modifier",
+    "subcategory": "Indefinite"
 },
 {
-	"A": "Köje",
-	"B": "Most",
-	"C": "Modifier",
-	"D": ""
+    "word": "Köje",
+    "english_translation": "Most",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Kije",
-	"B": "Least",
-	"C": "Modifier",
-	"D": ""
+    "word": "Kije",
+    "english_translation": "Least",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Vime",
-	"B": "Last",
-	"C": "Modifier",
-	"D": ""
+    "word": "Vime",
+    "english_translation": "Last",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Varčte",
-	"B": "Soon",
-	"C": "Modifier",
-	"D": ""
+    "word": "Varčte",
+    "english_translation": "Soon",
+    "part_of_speech": "Modifier",
+    "subcategory": ""
 },
 {
-	"A": "Cúre",
-	"B": "Big",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Cúre",
+    "english_translation": "Big",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Páte",
-	"B": "Long (not wide)",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Páte",
+    "english_translation": "Long (not wide)",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Píne",
-	"B": "Small",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Píne",
+    "english_translation": "Small",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Lijóm",
-	"B": "Woman (adult female human)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Lijóm",
+    "english_translation": "Woman (adult female human)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Täjóm",
-	"B": "Man (adult male human)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Täjóm",
+    "english_translation": "Man (adult male human)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Vivom",
-	"B": "Person (individual human)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Vivom",
+    "english_translation": "Person (individual human)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ámik",
-	"B": "Friend",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ámik",
+    "english_translation": "Friend",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ctudíct",
-	"B": "Student",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ctudíct",
+    "english_translation": "Student",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Vlur",
-	"B": "Flower",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Vlur",
+    "english_translation": "Flower",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Živóm",
-	"B": "Animal",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Živóm",
+    "english_translation": "Animal",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Plivóm",
-	"B": "Fish",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Plivóm",
+    "english_translation": "Fish",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Letóm",
-	"B": "Bird",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Letóm",
+    "english_translation": "Bird",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Xond",
-	"B": "Dog",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Xond",
+    "english_translation": "Dog",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kuž",
-	"B": "Louse",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kuž",
+    "english_translation": "Louse",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Arbóm",
-	"B": "Tree (not log)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Arbóm",
+    "english_translation": "Tree (not log)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cemóm",
-	"B": "Seed",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cemóm",
+    "english_translation": "Seed",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Föl",
-	"B": "Leaf",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Föl",
+    "english_translation": "Leaf",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Tátu",
-	"B": "Root",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Tátu",
+    "english_translation": "Root",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Eckórč",
-	"B": "Bark (of tree)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Eckórč",
+    "english_translation": "Bark (of tree)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Pjel",
-	"B": "Skin (person’s)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Pjel",
+    "english_translation": "Skin (person’s)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cliv",
-	"B": "Flesh (meat)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cliv",
+    "english_translation": "Flesh (meat)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Canx",
-	"B": "Blood",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Canx",
+    "english_translation": "Blood",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Rod",
-	"B": "Bone",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Rod",
+    "english_translation": "Bone",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Lom",
-	"B": "Grease (fat, organic substance)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Lom",
+    "english_translation": "Grease (fat, organic substance)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cëmom",
-	"B": "Egg",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cëmom",
+    "english_translation": "Egg",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Xirvë",
-	"B": "Horn (bull)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Xirvë",
+    "english_translation": "Horn (bull)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Xirvëla",
-	"B": "Antler",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Xirvëla",
+    "english_translation": "Antler",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cval",
-	"B": "Tail",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cval",
+    "english_translation": "Tail",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Volet",
-	"B": "Feather (large, not down)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Volet",
+    "english_translation": "Feather (large, not down)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kabëja",
-	"B": "Hair (on head of humans)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kabëja",
+    "english_translation": "Hair (on head of humans)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kabëca",
-	"B": "Head (anatomic)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kabëca",
+    "english_translation": "Head (anatomic)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Orëla",
-	"B": "Ear",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Orëla",
+    "english_translation": "Ear",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ilíta",
-	"B": "Eye",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ilíta",
+    "english_translation": "Eye",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Náca",
-	"B": "Nose",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Náca",
+    "english_translation": "Nose",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Bóka",
-	"B": "Mouth",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Bóka",
+    "english_translation": "Mouth",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Dënta",
-	"B": "Tooth (front, rather than molar)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Dënta",
+    "english_translation": "Tooth (front, rather than molar)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Lënja",
-	"B": "Tongue (anatomical)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Lënja",
+    "english_translation": "Tongue (anatomical)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kláča",
-	"B": "Claw",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kláča",
+    "english_translation": "Claw",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Tatëta",
-	"B": "Foot (not leg)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Tatëta",
+    "english_translation": "Foot (not leg)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Xenóla",
-	"B": "Knee",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Xenóla",
+    "english_translation": "Knee",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Káma",
-	"B": "Hand",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Káma",
+    "english_translation": "Hand",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Entrëla",
-	"B": "Belly (lower part of body, abdomen)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Entrëla",
+    "english_translation": "Belly (lower part of body, abdomen)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kála",
-	"B": "Neck (not nape)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kála",
+    "english_translation": "Neck (not nape)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Bórčten",
-	"B": "Breasts (female; 1955 still breast)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Bórčten",
+    "english_translation": "Breasts (female; 1955 still breast)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kórda",
-	"B": "Heart",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kórda",
+    "english_translation": "Heart",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Fëtja",
-	"B": "Liver",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Fëtja",
+    "english_translation": "Liver",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Drëkkä",
-	"B": "Drink",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Drëkkä",
+    "english_translation": "Drink",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Bortä",
-	"B": "Eat",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Bortä",
+    "english_translation": "Eat",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Bitä",
-	"B": "Bite",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Bitä",
+    "english_translation": "Bite",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Čië",
-	"B": "See",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Čijë",
+    "english_translation": "See",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Xirë",
-	"B": "Hear",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Xirë",
+    "english_translation": "Hear",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Vertë",
-	"B": "Become",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Vertë",
+    "english_translation": "Become",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Vitë",
-	"B": "Know (facts)",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Vitë",
+    "english_translation": "Know (facts)",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Munë",
-	"B": "Remember",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Munë",
+    "english_translation": "Remember",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Čpovä",
-	"B": "Sleep",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Čpovä",
+    "english_translation": "Sleep",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Mjurtë",
-	"B": "Die",
-	"C": "Verb",
-	"D": "Intransitive Experiential"
+    "word": "Mjurtë",
+    "english_translation": "Die",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Experiential"
 },
 {
-	"A": "Mjurtä",
-	"B": "Kill",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Mjurtä",
+    "english_translation": "Kill",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Čemjurtä",
-	"B": "To commit suicide",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Čemjurtä",
+    "english_translation": "To commit suicide",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Entë",
-	"B": "End",
-	"C": "Verb",
-	"D": "Transitive Experiential"
+    "word": "Entë",
+    "english_translation": "End",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Experiential"
 },
 {
-	"A": "Lëzä",
-	"B": "Read",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Lëzä",
+    "english_translation": "Read",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Črivä",
-	"B": "Write",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Črivä",
+    "english_translation": "Write",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Čvimä",
-	"B": "Swim",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Čvimä",
+    "english_translation": "Swim",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Vlijä",
-	"B": "Fly",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Vlijä",
+    "english_translation": "Fly",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Lopä",
-	"B": "Walk",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Lopä",
+    "english_translation": "Walk",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Komä",
-	"B": "Come",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Komä",
+    "english_translation": "Come",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Lijë",
-	"B": "Lie (on side, to be reclined)",
-	"C": "Verb",
-	"D": "Intransitive Experiential"
+    "word": "Lijë",
+    "english_translation": "Lie (on side, to be reclined)",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Experiential"
 },
 {
-	"A": "Lijä",
-	"B": "Lie (to lower into reclining)",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Lijä",
+    "english_translation": "Lie (to lower into reclining)",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Citë",
-	"B": "Sit (to be sitting)",
-	"C": "Verb",
-	"D": "Intransitive Experiential"
+    "word": "Citë",
+    "english_translation": "Sit (to be sitting)",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Experiential"
 },
 {
-	"A": "Citä",
-	"B": "Sit (to lower into sitting)",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Citä",
+    "english_translation": "Sit (to lower into sitting)",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Čtandë",
-	"B": "Stand",
-	"C": "Verb",
-	"D": "Intransitive Experiential"
+    "word": "Čtandë",
+    "english_translation": "Stand",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Experiential"
 },
 {
-	"A": "Čtandä",
-	"B": "Stand",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Čtandä",
+    "english_translation": "Stand",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Xëvä",
-	"B": "Give",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Xëvä",
+    "english_translation": "Give",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Cëjä",
-	"B": "Say",
-	"C": "Verb",
-	"D": "Transitive Intentional"
+    "word": "Cëjä",
+    "english_translation": "Say",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
 },
 {
-	"A": "Ckä",
-	"B": "Shine",
-	"C": "Verb",
-	"D": "Intransitive Intentional"
+    "word": "Ckä",
+    "english_translation": "Shine",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
 },
 {
-	"A": "Áranen",
-	"B": "Sun",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Áranen",
+    "english_translation": "Sun",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Lúnen",
-	"B": "Moon",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Lúnen",
+    "english_translation": "Moon",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Ectríl",
-	"B": "Star",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ectríl",
+    "english_translation": "Star",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Lákil",
-	"B": "Water",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Lákil",
+    "english_translation": "Water",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Pitil",
-	"B": "Rain",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Pitil",
+    "english_translation": "Rain",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cton",
-	"B": "Stone",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cton",
+    "english_translation": "Stone",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Cand",
-	"B": "Sand",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Cand",
+    "english_translation": "Sand",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Jordin",
-	"B": "Earth (soil)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Jordin",
+    "english_translation": "Earth (soil)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Vevd",
-	"B": "Cloud (not fog)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Vevd",
+    "english_translation": "Cloud (not fog)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Räken",
-	"B": "Smoke (noun, of fire)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Räken",
+    "english_translation": "Smoke (noun, of fire)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Xärd",
-	"B": "Fire",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Xärd",
+    "english_translation": "Fire",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ačk",
-	"B": "Ash(es)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ačk",
+    "english_translation": "Ash(es)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Brendë",
-	"B": "Burn",
-	"C": "Verb",
-	"D": "Intransitive Experiential"
+    "word": "Brendë",
+    "english_translation": "Burn",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Experiential"
 },
 {
-	"A": "Kámi",
-	"B": "Path (road, trail; not street)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kámi",
+    "english_translation": "Path (road, trail; not street)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Tábel",
-	"B": "Table",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Tábel",
+    "english_translation": "Table",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ctil",
-	"B": "Pencil",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ctil",
+    "english_translation": "Pencil",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Čurnal",
-	"B": "Newspaper",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Čurnal",
+    "english_translation": "Newspaper",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Kart",
-	"B": "Book",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Kart",
+    "english_translation": "Book",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Mántel",
-	"B": "Mountain (not hill)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Mántel",
+    "english_translation": "Mountain (not hill)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Ríju",
-	"B": "River",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Ríju",
+    "english_translation": "River",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Bank",
-	"B": "Bank (of the river)",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Bank",
+    "english_translation": "Bank (of the river)",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Píre",
-	"B": "Red",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Píre",
+    "english_translation": "Red",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Vírëje",
-	"B": "Green",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Vírëje",
+    "english_translation": "Green",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Kéltäne",
-	"B": "Yellow",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Kéltäne",
+    "english_translation": "Yellow",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Válke",
-	"B": "White",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Válke",
+    "english_translation": "White",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Múčte",
-	"B": "Black",
-	"C": "Noun",
-	"D": "Proper"
+    "word": "Múčte",
+    "english_translation": "Black",
+    "part_of_speech": "Noun",
+    "subcategory": "Proper"
 },
 {
-	"A": "Daxt",
-	"B": "Day",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Daxt",
+    "english_translation": "Day",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Nixt",
-	"B": "Night",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Nixt",
+    "english_translation": "Night",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Hjúme",
-	"B": "Hot (weather)",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Hjúme",
+    "english_translation": "Hot (weather)",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Kjúlme",
-	"B": "Cold (weather)",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Kjúlme",
+    "english_translation": "Cold (weather)",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Télje",
-	"B": "Full",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Télje",
+    "english_translation": "Full",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Uče",
-	"B": "New",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Uče",
+    "english_translation": "New",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Váne",
-	"B": "Good",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Váne",
+    "english_translation": "Good",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Rínje",
-	"B": "Round",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Rínje",
+    "english_translation": "Round",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Küve",
-	"B": "Dry (substance)",
-	"C": "Modifier",
-	"D": "Descriptive"
+    "word": "Küve",
+    "english_translation": "Dry (substance)",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
 },
 {
-	"A": "Noma",
-	"B": "Name",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Noma",
+    "english_translation": "Name",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Numër",
-	"B": "Quantity",
-	"C": "Noun",
-	"D": "Common"
+    "word": "Numër",
+    "english_translation": "Quantity",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
 },
 {
-	"A": "Rë",
-	"B": "About",
-	"C": "Preposition",
-	"D": ""
+    "word": "Rë",
+    "english_translation": "About",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
 },
 {
-	"A": "Po",
-	"B": "On",
-	"C": "Preposition",
-	"D": ""
+    "word": "Po",
+    "english_translation": "On",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
 },
 {
-	"A": "Óbër",
-	"B": "Above",
-	"C": "Preposition",
-	"D": ""
+    "word": "Óbër",
+    "english_translation": "Above",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
 },
 {
-	"A": "Úndër",
-	"B": "Under",
-	"C": "Preposition",
-	"D": ""
+    "word": "Úndër",
+    "english_translation": "Under",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
 },
 {
-	"A": "Níbër",
-	"B": "Beside",
-	"C": "Preposition",
-	"D": ""
+    "word": "Níbër",
+    "english_translation": "Beside",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
 },
 {
-	"A": "Vö",
-	"B": "0",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Vö",
+    "english_translation": "0",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Un",
-	"B": "1",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Un",
+    "english_translation": "1",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Du",
-	"B": "2",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Du",
+    "english_translation": "2",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Tri(t)",
-	"B": "3",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Tri(t)",
+    "english_translation": "3",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Kvi(t)",
-	"B": "4",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Kvi(t)",
+    "english_translation": "4",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Pin(t)",
-	"B": "5",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Pin(t)",
+    "english_translation": "5",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Cën(a)",
-	"B": "6",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Cën(a)",
+    "english_translation": "6",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Cët(a)",
-	"B": "7",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Cët(a)",
+    "english_translation": "7",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Ok(a)",
-	"B": "8",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Ok(a)",
+    "english_translation": "8",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Nok(a)",
-	"B": "9",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Nok(a)",
+    "english_translation": "9",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Dëk(a)",
-	"B": "10",
-	"C": "Noun",
-	"D": "Number"
+    "word": "Dëk(a)",
+    "english_translation": "10",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
 },
 {
-	"A": "Cut(a)",
-	"B": "100",
-	"C": "Noun",
-	"D": "Number"
-}
-]
+    "word": "Cut(a)",
+    "english_translation": "100",
+    "part_of_speech": "Noun",
+    "subcategory": "Number"
+},
+{
+    "word": "Mänedakt",
+    "english_translation": "Tomorrow",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
+},
+{
+    "word": "Helje",
+    "english_translation": "Bright",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
+},
+{
+    "word": "Enedakt",
+    "english_translation": "Morning",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
+},
+{
+    "word": "Midakt",
+    "english_translation": "Midday",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
+},
+{
+    "word": "Järdakt",
+    "english_translation": "Evening",
+    "part_of_speech": "Noun",
+    "subcategory": "Common"
+},
+{
+    "word": "Ver",
+    "english_translation": "Is/To be",
+    "part_of_speech": "Verb",
+    "subcategory": "Linking"
+},
+{
+    "word": "Kijal",
+    "english_translation": "Time",
+    "part_of_speech": "Noun",
+    "subcategory": "Abstract"
+},
+{
+    "word": "Vilt",
+    "english_translation": "Wild",
+    "part_of_speech": "Modifier",
+    "subcategory": "Descriptive"
+},
+{
+    "word": "Ti",
+    "english_translation": "He/She",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Personal"
+},
+{
+    "word": "Tijen",
+    "english_translation": "They",
+    "part_of_speech": "Pronoun",
+    "subcategory": "Personal"
+},
+{
+    "word": "Čijä",
+    "english_translation": "Look",
+    "part_of_speech": "Verb",
+    "subcategory": "Transitive Intentional"
+},
+{
+    "word": "Umber",
+    "english_translation": "Around",
+    "part_of_speech": "Preposition",
+    "subcategory": ""
+},
+{
+    "word": "Farä",
+    "english_translation": "Leave",
+    "part_of_speech": "Verb",
+    "subcategory": "Intransitive Intentional"
+}]

@@ -37,7 +37,7 @@
 		<tr>
 			<td>The sun will shine tomorrow.</td>
 			<td>Sun will shine tomorrow.</td>
-			<td>Aranen beckä <b>mäne</b>.</td>
+			<td>Aranen beckä mänedakt.</td>
 		<tr>
 		<tr>
 			<td>The sun shines brightly.</td>
@@ -121,28 +121,28 @@
 		<tr>
 		<tr>
 			<td>Once wild animals lived here.</td>
-			<td>Once, wild animals habitated here.</td>
-			<td>Undefined</td>
+			<td>One time, wild animals habitated here.</td>
+			<td>Un kijal, vilt živomen verël čecil.</td>
 		<tr>
 		<tr>
 			<td>Slowly she looked around</td>
-			<td>Literal</td>
-			<td>Undefined</td>
+			<td>Slowly, she looked around.</td>
+			<td>Plovjen, ti čijäl umber.</td>
 		<tr>
 		<tr>
 			<td>Go away!</td>
-			<td>Literal</td>
-			<td>Undefined</td>
+			<td>Go away!</td>
+			<td>Varä ibutër!</td>
 		<tr>
 		<tr>
 			<td>Let's go!</td>
-			<td>Literal</td>
-			<td>Undefined</td>
+			<td>We go!</td>
+			<td>Mijen varä!</td>
 		<tr>
 		<tr>
-			<td>You should go</td>
-			<td>Literal</td>
-			<td>Undefined</td>
+			<td>You should go.</td>
+			<td>You best go.</td>
+			<td>Vi čevane varä.</td>
 		<tr>
 		<tr>
 			<td>I will be happy to go</td>
@@ -470,14 +470,14 @@
 			<td>Undefined</td>
 		<tr>
 		<tr>
-			<td>Their voices sound very happy</td>
+			<td>Their voices sound very happy.</td>
 			<td>Literal</td>
 			<td>Undefined</td>
 		<tr>
 		<tr>
 			<td>Is today Monday?</td>
-			<td>Literal</td>
-			<td>Undefined</td>
+			<td>Is today Monday?</td>
+			<td>Ver čedaxt <b>Monday</b>?</td>
 		<tr>
 		<tr>
 			<td>Have all the leaves fallen from the tree?</td>

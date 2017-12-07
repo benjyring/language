@@ -62,10 +62,10 @@
 			</tr>
 			<tr>
 				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>kil</td>
+				<td>čecil</td>
+				<td>cil</td>
+				<td>moncil</td>
 			</tr>
 			<tr>
 				<td><strong>Time</strong></td>

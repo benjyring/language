@@ -43,10 +43,10 @@ $(function() {
 		var tr;
 		for (var i = 0; i < json.length; i++) {
 			tr = $('<tr/>');
-			tr.append("<td class='word'>" + json[i].A + "</td>");
-			tr.append("<td class='englishTranslation'>" + json[i].B + "</td>");
-			tr.append("<td class='partOfSpeech'>" + json[i].C + "</td>");
-			tr.append("<td class='subCategory'>" + json[i].D + "</td>");
+			tr.append("<td class='word'>" + json[i].word + "</td>");
+			tr.append("<td class='englishTranslation'>" + json[i].english_translation + "</td>");
+			tr.append("<td class='partOfSpeech'>" + json[i].part_of_speech + "</td>");
+			tr.append("<td class='subCategory'>" + json[i].subcategory + "</td>");
 			$('table#lexicon tbody').append(tr);
 		}
 	});
