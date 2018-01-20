@@ -38,7 +38,7 @@ $(function() {
 // =======
 // Print lexicon table from JSON
 // =======
-	$.getJSON("lexicon.json",
+	$.getJSON("parts/lexicon.json",
 	function (json) {
 		var tr;
 		for (var i = 0; i < json.length; i++) {

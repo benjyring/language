@@ -10,10 +10,9 @@ module.exports = function(grunt){
 
 		includes: {
 			files: {
-				cwd: 'templates/',
-				// includePath: 'templates/parts/',
+				cwd: 'parts/',
 				src: '*.html',
-				dest: '.'
+				dest: 'docs/'
 			}
 		},
 
@@ -151,15 +150,15 @@ module.exports = function(grunt){
 			}
 		},
 
-		themeIt: {
-			compile: {
-				files: [{
-					expand: true,
-					src: ['*.html', '!kitchen-sink.html', '*.json', '!package.json'],
-					dest: 'docs/'
-				}]
-			}
-		},
+		// themeIt: {
+		// 	compile: {
+		// 		files: [{
+		// 			expand: true,
+		// 			src: ['*.html', '!kitchen-sink.html', '*.json', '!package.json'],
+		// 			dest: 'docs/'
+		// 		}]
+		// 	}
+		// },
 
 		compress: {
 			theme: {
@@ -216,7 +215,7 @@ module.exports = function(grunt){
 	grunt.registerTask('prepare-css', ['less:compile', 'autoprefixer', 'usebanner', 'less:minify']);
 
 	grunt.registerTask('source-map', ['less:compile_minify']);
-	grunt.registerTask('theme', ['clean:zip', 'clean:theme', 'prepare-js', 'prepare-css', 'copy:theme', 'includes', 'themeIt', 'compress']);
+	grunt.registerTask('theme', ['clean:zip', 'clean:theme', 'prepare-js', 'prepare-css', 'copy:theme', 'includes', 'compress']);
 
 	grunt.registerTask('default', [
 		'theme'
