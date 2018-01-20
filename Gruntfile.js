@@ -11,7 +11,7 @@ module.exports = function(grunt){
 		includes: {
 			files: {
 				cwd: 'parts/',
-				src: '*.html',
+				src: '*',
 				dest: 'docs/'
 			}
 		},

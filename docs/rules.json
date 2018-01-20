@@ -1,0 +1,67 @@
+{
+	"vowels": {
+		"a": "uh",
+		"å": "ah",
+		"ä": "ai",
+		"e": "eh",
+		"ë": "ey",
+		"o": "oh",
+		"ö": "oi",
+		"u": "oo",
+		"i": "ee",
+	},
+	"consonants": {
+		"b": "b",
+		"c": "s",
+		"č": "sh",
+		"d": "d",
+		"x": "h",
+		"j": "y",
+		"k": "k",
+		"l": "l",
+		"m": "m",
+		"n": "n",
+		"p": "p",
+		"r": "high Germanic",
+		"t": "t",
+		"v": "v",
+		"z": "z",
+		"ž": "zh"
+	},
+	"soft rules": {
+		"no voiced pairs of consonants (except d, t)": "to avoid ambiguity",
+		"implied j": "Separates a word ending in a vowel and a word beginning in a vowel. This sound is also produced between words ending with a vowel and words beginning with 'x.'",
+		"no q or w sounds": "to maintain a non-latin tone",
+		"written with iphone English keyboard": "to reduce barrier to entry",
+		"Nouns end in consonants": "Adjectives and adverbs end in vowels",
+		"-nx": "same as -ng in English",
+		"Čë": [
+		{
+			"Prefix word denoting one in a series.": "Čë tet = this, Tet = That, Čë kë = which, Kë = what",
+			"Čë is a word, existing as a modifier.": "Če exists as a prefix."
+		}
+		],
+		"Soft/hard voice": "To soften a word, use 'i' as the accented vowel instead of 'a'",
+		"Ka-": "Prefix denoting intention",
+		"Auxiliary verbs": "These don't exist, but are formed with modifiers"
+	},
+	"syntax": {
+		"numerals before nouns": "",
+		"adjectives after nouns": "(at least in compounds)",
+		"postpositions": "",
+		"subjects before verbs": ""
+	},
+	"build-pattern": {
+		"process or state": "knowledge, departure, whiteness",
+		"associated person": "fighter, librarian",
+		"place": "dining room, book-place (= library)",
+		"collection": "woods, word-hoard (= dictionary)",
+		"tool": "borer, cut-thing (= knife)",
+		"characteristic adjective": "warlike, bovine, stellar",
+		"causative": "redden, make-die (= kill)",
+		"diminutive": "doggie, Johnnie, mujercita",
+		"augmentative": "big-dog, mujerona",
+		"inhabitant": "Verdurian, Xurnese",
+		"negative": "unfamiliar, undo, atheism"
+	}
+}
